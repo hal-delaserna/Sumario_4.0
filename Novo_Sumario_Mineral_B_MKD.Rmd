@@ -1,0 +1,146 @@
+---
+title: ""
+output:
+  pagedown::html_paged:
+    css:
+      - anm_identidade_visual.css
+      - default-page
+      - default
+    toc: true
+    number-lines: true
+    # change to true for a self-contained document, but it'll be a litte slower for Pandoc to render
+    self_contained: true
+# produce HTML and PDF in RStudio:
+# knit: pagedown::chrome_print
+---
+
+```{r setup, include=FALSE}
+# eval chunks:
+A <- as.logical(ifelse(thousandMT_Prod == 0 & is.na(Producao_Reserva_PAIS[1,8])==F, TRUE, FALSE))
+B <- as.logical(ifelse(thousandMT_Prod == 1 & is.na(Producao_Reserva_PAIS[1,8])==F, TRUE, FALSE))
+C <- as.logical(is.na(Producao_Reserva_PAIS[1,8]))
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div class="titulo_secao"> `r toupper(SUBS)` </div>
+
+<br />
+
+<div class="titulo_subsecao"> 1 &nbsp;Oferta mundial </div>
+<p>
+Em `r ANO` a produção mundial de `r SUBS` (`r SimboloQuimico` contido) foi de `r paste0(format(round(Producao_Mundial,1), big.mark = ".", decimal.mark = ",", scientific = FALSE, digits = 1), ifelse(thousandMT_Prod == 1, " mil t,", " t,"))` correspondendo a `r ifelse(Mod(VariacaoMundial) < 1,yes = ifelse(Mod(VariacaoMundial) < 0.01,yes = paste0("uma estabilidade com variação muito discreta relativa à produção do ano anterior ("),no = ifelse(Mod(VariacaoMundial) < 0.1,yes = paste0("uma estabilidade com variação muito discreta de ",format(round(Mod(VariacaoMundial), digits = 1),big.mark = ".",decimal.mark = ",",scientific = FALSE),"% em relação ao ano anterior ("),no = ifelse(Mod(VariacaoMundial) < 1,yes = paste0("uma estabilidade com discreta variação de ",format(round(Mod(VariacaoMundial), digits = 1),big.mark = ".",decimal.mark = ",",scientific = FALSE),"% em relação ao ano anterior ("),no =))),no = ifelse(VariacaoMundial < 0,yes = paste0("uma queda de ",format(round(Mod(VariacaoMundial), digits = 1),big.mark = ".",decimal.mark = ",",scientific = FALSE),"% em relação ao ano anterior ("),no = paste0("um aumento de ",format(round(Mod(VariacaoMundial), digits = 1),big.mark = ".",decimal.mark = ",",scientific = FALSE),"% em relação ao ano anterior (")))``r format(round(Producao_Mundial_Ano_Anterior,1), big.mark = ".", decimal.mark = ",", scientific = FALSE)` `r ifelse(thousandMT_Prod == 1, "mil t). ", " t). ")` `r paste0(" Os maiores países produtores foram: ", as.data.frame(Producao_PAIS)[1, 2], " (", format(round(as.data.frame(Producao_PAIS)[1, 5],1), big.mark = ".", decimal.mark = ",", scientific = FALSE), ifelse(thousandMT_Prod == 1, " mil t", " t"), "), ", as.data.frame(Producao_PAIS)[2, 2], " (", format(round(as.data.frame(Producao_PAIS)[2, 5],1), big.mark = ".", decimal.mark = ",", scientific = FALSE), ifelse(thousandMT_Prod == 1, " mil t", " t"), ") e ", as.data.frame(Producao_PAIS)[3, 2], " (", format(round(as.data.frame(Producao_PAIS)[3, 5],1), big.mark = ".", decimal.mark = ",", scientific = FALSE), ifelse(thousandMT_Prod == 1, " mil t", " t"), ")." )` `r ifelse( is.numeric(Reserva_Mundial) == TRUE, yes = paste0( "De acordo com dados do Serviço Geológico dos Estados Unidos (USGS) em ", ANO, " as reservas mundiais de ", SUBS , " (", SimboloQuimico, " contido)", " atingiram ", format( round(Reserva_Mundial, 1), big.mark = ".", decimal.mark = ",", scientific = FALSE), ifelse(thousandMT_Prod == 1, " mil t.", " t."), ifelse( is.na(Reserva_PAIS[3, 3]) & is.na(Reserva_PAIS[2, 3]), yes = paste0(" O único país com reservas é ", Reserva_PAIS[1, 4], " (", format( round(Reserva_PAIS[1, 3], 1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), ifelse(thousandMT_Prod == 1, " mil t", " t"), ")." ), no = ifelse( is.na(Reserva_PAIS[3, 3]), yes = paste0(" Principalmente em ", Reserva_PAIS[1, 4], " (", format( round(Reserva_PAIS[1, 3], 1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), ifelse(thousandMT_Prod == 1, " mil t", " t"), ") e ", Reserva_PAIS[2, 4], " (", format( round(Reserva_PAIS[2, 3], 1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), ifelse(thousandMT_Prod == 1, " mil t", " t"), ")." ), no = paste0(" Principalmente em ", Reserva_PAIS[1, 4], " (", format( round(Reserva_PAIS[1, 3], 1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), ifelse(thousandMT_Prod == 1, " mil t", " t"), "), ", Reserva_PAIS[2, 4], " (", format( round(Reserva_PAIS[2, 3], 1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), ifelse(thousandMT_Prod == 1, " mil t", " t"), ") e ", Reserva_PAIS[3, 4], " (", format( round(Reserva_PAIS[3, 3], 1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), ifelse(thousandMT_Prod == 1, " mil t", " t"), "). " ) ) ) ), no = "" )` `r ifelse( is.numeric(Reserva_Mundial) == FALSE, yes = ifelse( Reserva_Mundial == "Large", yes = paste0( " As reservas mundiais de ", SUBS, " são consideradas amplas ainda que sujeitas à insuficiências locais. " ), no = paste0( " Reunidas as reservas mundiais de ", SUBS, " superam os ", format(round(Reserva_Mundial,1), big.mark = ".", decimal.mark = ",", scientific = FALSE ), " mil t (contido).")), no = "")`
+</p>
+
+<table class = "tabela_frontao"><tr><th class = "tabela_frontao_numero"> TABELA 1 </th><th class="tabela_frontao_titulo"> RESERVA E PRODUÇÃO MUNDIAL </th></tr></table>
+```{r RESERVA_PRODUÇÃO_MUNDIAL_A, eval=A, echo=FALSE, message=FALSE, warning=FALSE}
+kableExtra::kable(
+  Producao_Reserva_PAIS[, c(2, 8, 3:5)],
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c","c","c","c"),
+  col.names = c(" País", "2019", ANO - 2, ANO - 1, ANO)
+)  %>%
+  kable_styling(htmltable_class = "tabela_sumario") %>%
+  add_header_above(c(" ", "Reserva (t)" = 1, "Produção (t)" = 3), 
+  extra_css = "white-space: nowrap; padding: 6px; border-bottom: 2px solid #ffffff;", line = FALSE)
+
+```
+```{r RESERVA_PRODUÇÃO_MUNDIAL_B, eval=B, echo=FALSE, message=FALSE, warning=FALSE}
+kableExtra::kable(
+  Producao_Reserva_PAIS[, c(2, 8, 3:5)],
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c","c","c","c"),
+  col.names = c(" País", "2019", ANO - 2, ANO - 1, ANO)
+)  %>%
+  kable_styling(htmltable_class = "tabela_sumario") %>%
+  add_header_above(c(" ", "Reserva (10³ t)" = 1, "Produção (10³ t)" = 3), 
+  extra_css = "white-space: nowrap; padding: 6px; border-bottom: 2px solid #ffffff;", line = FALSE)
+
+```
+```{r RESERVA_PRODUÇÃO_MUNDIAL_C, eval=C, echo=FALSE, message=FALSE, warning=FALSE}
+kableExtra::kable(
+  Producao_Reserva_PAIS[, c(2, 3:5)],
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c","c", "c"),
+  col.names = c(" País", ANO - 2, ANO - 1, ANO)
+)  %>%
+  kable_styling(htmltable_class = "tabela_sumario") %>%
+  add_header_above(c(" ", "Produção (10³ t)" = 3), 
+  extra_css = "white-space: nowrap; padding: 6px; border-bottom: 2px solid #ffffff;", line = FALSE)
+
+```
+<br />
+
+<p>
+`r paste0("No Brasil as reservas de ",SUBS," (",SimboloQuimico," contido) atingiram ", format(round(ContidoMedido,1), big.mark = ".", decimal.mark = ",", scientific = FALSE), " ", escala_ContidoMedido, " t em ", ANO, " representando ",ifelse(VariacaoContidoMedido > 0, yes = "um aumento de ", no = "uma queda de "),format(round(Mod(VariacaoContidoMedido),1),big.mark = ".",decimal.mark = ","),"% em relação ao ano anterior (",format(ContidoMedido_Ano_Anterior,big.mark = ".",decimal.mark = ",", scientific = FALSE), " ", escala_ContidoMedido_Ano_Anterior," t","). ",ifelse(is.na(ContidoMedido_UF[2, 1]),yes = paste0("Os estados com os maiores jazimentos são ",ContidoMedido_UF[1, 1]," (",format(ContidoMedido_UF[1, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t).",ifelse(is.na(ContidoMedido_MUN[2, 1]),no = paste0(ContidoMedido_MUN[1, 1]," (",format(ContidoMedido_MUN[1, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t) e ",ContidoMedido_MUN[2, 1]," (",format(ContidoMedido_MUN[2, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t). "),yes = paste0("Estão concentrados no município de ",ContidoMedido_MUN[1, 1]," (",format(ContidoMedido_MUN[1, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t)."))),no = paste0("Os maiores jazimentos estão em ",ContidoMedido_UF[1, 1]," (",format(ContidoMedido_UF[1, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t) e ",ContidoMedido_UF[2, 1]," (",format(ContidoMedido_UF[2, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t). Entre os municípios são destaques ",ContidoMedido_MUN[1, 1]," (",format(ContidoMedido_MUN[1, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t) e ",ContidoMedido_MUN[2, 1]," (",format(ContidoMedido_MUN[2, 2],big.mark = ".",decimal.mark = ",", digits = 1, scientific = FALSE)," ", escala_ContidoMedido_UF, " t).")))`
+</p>
+\newpage
+<div class="titulo_subsecao"> 2&nbsp;&nbsp;&nbsp;Produção interna </div>
+<p>
+Em `r ANO` a produção nacional foi de `r paste0(format(ProducaoBENEFICIADA, big.mark = ".", decimal.mark = ",", scientific = FALSE, digits = 1), " ",escala_ProducaoBENEFICIADA, " ",unidade_ProducaoBENEFICIADA," e em material contido de ", format(ProducaoCONTIDO, big.mark = ".", decimal.mark = ",", scientific = FALSE, digits = 1),  " ", escala_ProducaoCONTIDO,  " ", unidade,  " ", (SimboloQuimico), " correspondendo a ",format(ifelse(VariacaoProducaoCONTIDO > 0, yes = "um aumento de ", no = "uma queda de "), big.mark = ".", decimal.mark = ",", scientific = FALSE, digits = 1), format(round(Mod(VariacaoProducaoCONTIDO),1), big.mark = ".", decimal.mark = ",", scientific = FALSE),"% em relação ao ano anterior. ", ifelse(is.na(ProducaoCONTIDO_UF[2, 1]),yes = paste("A produção é concentrada em", ProducaoCONTIDO_UF[1, 1]),no = paste("Os principais estados produtores foram",ProducaoCONTIDO_UF[1, 1],"e",ProducaoCONTIDO_UF[2, 1])))`.
+</p>
+<table class = "tabela_frontao"><tr><th class = "tabela_frontao_numero"> Tabela 3 </th><th class="tabela_frontao_titulo"> Principais Estados Produtores de `r SUBS` - (`r paste0(ifelse(escala_ProducaoBENEFICIADA =="mil","10³ "," "), unidade_ProducaoBENEFICIADA)`) </th></tr></table>
+```{r ProducaoCONTIDO_UF, echo=FALSE, warning=FALSE}
+kableExtra::kable(
+  head(ProducaoCONTIDO_UF, 5),
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c","c"),
+  col.names = c("Estado", "Quantidade", "Participação (%)")
+) %>% kable_styling(htmltable_class = "tabela_sumario")
+```
+<br />
+<p>
+Recentemente a produção apresentou o comportamento a seguir indicado:
+</p>
+<table class = "tabela_frontao"><tr><th class = "tabela_frontao_numero"> Tabela 4 </th><th class="tabela_frontao_titulo"> Produção Brasileira de `r SUBS` - (`r paste0(ifelse(escala_ProducaoBENEFICIADA =="mil","10³ "," "), unidade_ProducaoBENEFICIADA)`)</th></tr></table>
+```{r ProducaoCONTIDO_ANO, echo=FALSE, warning=FALSE}
+kable(
+  ProducaoCONTIDO_ANO,
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c"),
+  col.names = c("Ano", "Quantidade")
+) %>%
+  kable_styling(htmltable_class = "tabela_sumario")
+```
+
+\newpage
+<div class="titulo_subsecao"> 3&nbsp;&nbsp;&nbsp;Comércio exterior </div>
+<p> 
+O saldo do comércio exterior do `r SUBS`, incluindo produtos básicos, semimanufaturados, manufaturados e transações especiais foi `r ifelse(SaldoComex > 0, yes = "positivo em", no = "negativo em")` US\$ `r format(Mod(SaldoComex),big.mark = ".", decimal.mark = ",")` o que correspondeu a `r ifelse(VariacaoSaldoComex > 0, yes = "um aumento de", no = "uma queda de")` `r format(round(Mod(VariacaoSaldoComex),1),big.mark = ".",decimal.mark = ",")`% em relação ao ano anterior. O valor total das exportações de produtos de `r SUBS` do Brasil `r ifelse(VariacaoValorExportado > 0, yes = "aumentou", no = "caiu")` `r format(round(Mod(VariacaoValorExportado), 1),big.mark = ".",decimal.mark = ",")`% totalizando USD `r format(ValorExportado,big.mark = ".",decimal.mark = ",")`, `r paste0(ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS BASICOS" & is.na(Fator_Agregado_EXPORTACAO[2, 1]),yes = "Sendo em sua totalidade de produtos básicos.",no = ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS SEMIMANUFATURADOS" & is.na(Fator_Agregado_EXPORTACAO[2, 1]),yes = "Sendo em sua totalidade de produtos semimanufaturados.",no = ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS MANUFATURADOS" & is.na(Fator_Agregado_EXPORTACAO[2, 1]),yes = " Sendo em sua totalidade de produtos manufaturados.",no = ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS BASICOS" &Fator_Agregado_EXPORTACAO[2, 1] == "PRODUTOS MANUFATURADOS",yes = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_EXPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos manufaturados (",format(round(Fator_Agregado_EXPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS BASICOS" &Fator_Agregado_EXPORTACAO[2, 1] == "PRODUTOS SEMIMANUFATURADOS",yes = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_EXPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos semimanufaturados (",format(round(Fator_Agregado_EXPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS MANUFATURADOS" &Fator_Agregado_EXPORTACAO[2, 1] == "PRODUTOS SEMIMANUFATURADOS",yes = paste0("Distribuídos entre produtos manufaturados (",format(round(Fator_Agregado_EXPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos semimanufaturados (",format(round(Fator_Agregado_EXPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = ifelse(Fator_Agregado_EXPORTACAO[1, 1] == "PRODUTOS BASICOS" &Fator_Agregado_EXPORTACAO[2, 1] == "PRODUTOS MANUFATURADOS",yes = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_EXPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos manufaturados (",format(round(Fator_Agregado_EXPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_EXPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%), ","produtos semimanufaturados (",format(round(Fator_Agregado_EXPORTACAO[3, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%), e ","produtos manufaturados (",format(round(Fator_Agregado_EXPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."))))))))," Os principais países de destino das exportações foram: ",Top3_PaisEX[1]," (",format(round(Mod(SharePaisExportacao1),1),big.mark = ".",decimal.mark = ","),"%), ",Top3_PaisEX[2]," (",format(round(Mod(SharePaisExportacao2),1),big.mark = ".",decimal.mark = ","),"%) e ",Top3_PaisEX[3]," (",format(round(Mod(SharePaisExportacao3),1),big.mark = ".",decimal.mark = ","),"%).")`
+</p>
+<p>
+As importações de produtos de `r SUBS` totalizaram USD `r format(ValorImportado,big.mark = ".",decimal.mark = ",")` o que representou `r ifelse(VariacaoValorImportado > 0, yes = "um aumento de", no = "uma queda de")` `r format(round(Mod(VariacaoValorImportado),1),big.mark = ".",decimal.mark = ",")`% em relação ao ano anterior. `r paste0(ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS BASICOS" & is.na(Fator_Agregado_IMPORTACAO[2, 1]),yes = "Sendo em sua totalidade de produtos básicos.",no = ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS SEMIMANUFATURADOS" & is.na(Fator_Agregado_IMPORTACAO[2, 1]),yes = "Sendo em sua totalidade de produtos semimanufaturados.",no = ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS MANUFATURADOS" & is.na(Fator_Agregado_IMPORTACAO[2, 1]),yes = " Sendo em sua totalidade de produtos manufaturados.",no = ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS BASICOS" &Fator_Agregado_IMPORTACAO[2, 1] == "PRODUTOS MANUFATURADOS",yes = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_IMPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos manufaturados (",format(round(Fator_Agregado_IMPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS BASICOS" &Fator_Agregado_IMPORTACAO[2, 1] == "PRODUTOS SEMIMANUFATURADOS",yes = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_IMPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos semimanufaturados (",format(round(Fator_Agregado_IMPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS MANUFATURADOS" &Fator_Agregado_IMPORTACAO[2, 1] == "PRODUTOS SEMIMANUFATURADOS",yes = paste0("Distribuídos entre produtos manufaturados (",format(round(Fator_Agregado_IMPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos semimanufaturados (",format(round(Fator_Agregado_IMPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = ifelse(Fator_Agregado_IMPORTACAO[1, 1] == "PRODUTOS BASICOS" &Fator_Agregado_IMPORTACAO[2, 1] == "PRODUTOS MANUFATURADOS",yes = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_IMPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%) e ","produtos manufaturados (",format(round(Fator_Agregado_IMPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."),no = paste0("distribuídos entre produtos básicos (",format(round(Fator_Agregado_IMPORTACAO[1, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%), ","produtos semimanufaturados (",format(round(Fator_Agregado_IMPORTACAO[3, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%), e ","produtos manufaturados (",format(round(Fator_Agregado_IMPORTACAO[2, 2], digits = 1),big.mark = ".",decimal.mark = ","),"%)."))))))))," Os principais países de origem em relação ao valor total das importações foram: ",Top3_PaisIMP[1]," (",format(round(Mod(SharePaisImportacao1),1),big.mark = ".",decimal.mark = ","),"%), ",Top3_PaisIMP[2]," (",format(round(Mod(SharePaisImportacao2),1),big.mark = ".",decimal.mark = ","),"%) e ",Top3_PaisIMP[3]," (",format(round(Mod(SharePaisImportacao3),1),big.mark = ".",decimal.mark = ","),"%).")`
+</p>
+<br />
+<table class = "tabela_frontao"><tr><th class = "tabela_frontao_numero"> Tabela 5 </th><th class="tabela_frontao_titulo"> Comércio Exterior: Principais Produtos `r ANO`</th></tr></table>
+```{r Exp_NCM, echo=FALSE, warning=FALSE, fig.align='center'}
+kable(
+  Top3_NCM_EX,
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c","c"),
+  col.names = c("Principais Produtos Exportados", "NCM", "Exportações (%)")
+) %>% kable_styling(htmltable_class = "tabela_sumario")
+
+kable(
+  Top3_NCM_IMP,
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 1, align = c("l","c","c"),
+  col.names = c("Principais Produtos Importados", "NCM", "Importações (%)")
+) %>% kable_styling(htmltable_class = "tabela_sumario")
+```
+
+\newpage
+<div class="titulo_subsecao"> 4&nbsp;&nbsp;&nbsp;Preços </div><br />
+<table class = "tabela_frontao"><tr><th class = "tabela_frontao_numero"> Tabela 6</th><th class="tabela_frontao_titulo">Preços Médios nos Últimos 3 anos</th></tr></table>
+```{r Preços, echo=FALSE, warning=FALSE}
+kable(
+  Preco_Comex,
+  format.args = c(big.mark = ".", decimal.mark = ","),
+  digits = 2, align = c("l","c","c", "c"),
+  col.names = c("Produto", "NCM", "Unidade", "R$/un.")
+) %>% kable_styling(htmltable_class = "tabela_sumario")
+```
+<br />
+<div class="titulo_subsecao"> 5&nbsp;&nbsp;&nbsp;Outros fatores relevantes </div>
+<p>
+Campo de livre edição para o sumarista colocar novos projetos ou projetos em andamento, caso houver, além de fatores relevantes para o mercado, também caso houver. Permitir que fontes sejam linkadas diretamente no texto, trocando a notação científica por hiperlinks diretos.
+</p>

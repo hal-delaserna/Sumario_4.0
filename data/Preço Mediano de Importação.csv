@@ -1,0 +1,557 @@
+"CO_ANO";"SUBSTANCIA";"CO_NCM";"NO_NCM_Subitem_POR";"IMP_FOB.x";"QUANTIDADE";"SG_UNID";"NO_UNID";"id_NCM_ano";"VALOR_(usd/un)"
+"2018";"Água Mineral";"22011000";"Águas minerais e águas gaseificadas, não adicionadas de açúcar ou de outros edulcorantes nem aromatizadas";1515279;2958384;"LITRO";"LITRO";"22011000_2018";0,8105
+"2018";"Água Mineral";"22021000";"Águas, incluindo as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas";633331;376620;"LITRO";"LITRO";"22021000_2018";1,2907
+"2018";"Amianto";"68138990";"Outras guarnições não montadas, para embreagens, etc, de amianto";1665037;93379;"KGL";"QUILOGRAMA LIQUIDO";"68138990_2018";44,6667
+"2018";"Amianto";"68129910";"Juntas e outros elementos com função semelhante de vedação, de amianto";732089;18014;"KGL";"QUILOGRAMA LIQUIDO";"68129910_2018";95,5
+"2018";"Amianto";"68129990";"Outras obras de amianto trabalhado com fibras com mistura à base de amianto com carbonato de magnésio";349511;10504;"KGL";"QUILOGRAMA LIQUIDO";"68129990_2018";82,1379
+"2018";"Amianto";"68129300";"Folhas de amianto e elastômeros, comprimidos, para juntas, mesmo apresentadas em rolos";5232;972;"KGL";"QUILOGRAMA LIQUIDO";"68129300_2018";20,5
+"2018";"Amianto";"68129200";"Papéis, cartões, feltros, de amianto/das misturas";1362;6;"KGL";"QUILOGRAMA LIQUIDO";"68129200_2018";198
+"2018";"Amianto";"68128000";"Obras de crocidolita (amianto) ou em fibras";1235;8;"KGL";"QUILOGRAMA LIQUIDO";"68128000_2018";159,5
+"2018";"Amianto";"68129100";"Vestuário, acessórios de vestuário, calçados e chapéus, de amianto/das misturas";1209;47;"KGL";"QUILOGRAMA LIQUIDO";"68129100_2018";14,9811
+"2018";"Amianto";"68114000";"Obras de fibrocimento, cimento-celulose ou produtos semelhantes, que contenham amianto";1007;6686;"KGL";"QUILOGRAMA LIQUIDO";"68114000_2018";0,1496
+"2018";"Amianto";"68129920";"Amianto trabalhado, em fibras";814;25;"KGL";"QUILOGRAMA LIQUIDO";"68129920_2018";22,4891
+"2018";"Antimônio";"28258010";"Trióxido de antimônio";6509550;859701;"KGL";"QUILOGRAMA LIQUIDO";"28258010_2018";7,3358
+"2018";"Antimônio";"81101010";"Antimônio em formas brutas";2349593;279580;"KGL";"QUILOGRAMA LIQUIDO";"81101010_2018";8,4502
+"2018";"Antimônio";"81109000";"Obras e outros produtos do antimônio";839495;103901;"KGL";"QUILOGRAMA LIQUIDO";"81109000_2018";20
+"2018";"Antimônio";"28258090";"Outros óxidos de antimônio";194302;36326;"KGL";"QUILOGRAMA LIQUIDO";"28258090_2018";10,0976
+"2018";"Antimônio";"28419060";"Antimoniatos";10719;1011;"KGL";"QUILOGRAMA LIQUIDO";"28419060_2018";322,5
+"2018";"Antimônio";"81101020";"Antimônio em pós";2885;4;"KGL";"QUILOGRAMA LIQUIDO";"81101020_2018";102
+"2018";"Antimônio";"28273950";"Cloreto de antimônio";2675;13;"KGL";"QUILOGRAMA LIQUIDO";"28273950_2018";153
+"2018";"Antimônio";"26171000";"Minérios de antimônio e seus concentrados";32;0;"KGL";"QUILOGRAMA LIQUIDO";"26171000_2018";NA
+"2018";"Areia";"25059000";"Outras areias naturais de qualquer espécie, mesmo coradas, exceto areias metalíferas do Capítulo 26";87164;176,072;"TML";"TONELADA METRICA LIQUIDA";"25059000_2018";1026,65
+"2018";"Argilas Comuns";"69072100";"Ladrilhos e placas (lajes), para pavimentação ou revestimento, exceto os das subposições 6907.30 e 6907.40, com um coeficiente de absorção de água, em peso, não superior a 0,5 %";52473815;6132915;"M2";"METRO QUADRADO";"69072100_2018";12,2597
+"2018";"Argilas Comuns";"69139000";"Estatuetas/outros objetos ornamentais de cerâmica, exceto porcelana";10398807;5970055;"KGL";"QUILOGRAMA LIQUIDO";"69139000_2018";2,0602
+"2018";"Argilas Comuns";"69149000";"Outras obras de cerâmica, exceto porcelana";3154821;1235726;"KGL";"QUILOGRAMA LIQUIDO";"69149000_2018";10,4763
+"2018";"Argilas Comuns";"25084090";"Outras argilas";2002451;2830317;"KGL";"QUILOGRAMA LIQUIDO";"25084090_2018";1,0913
+"2018";"Argilas Comuns";"69072300";"Ladrilhos e placas (lajes), para pavimentação ou revestimento, exceto os das subposições 6907.30 e 6907.40, com um coeficiente de absorção de água, em peso, superior a 10 %";1484013;797409;"M2";"METRO QUADRADO";"69072300_2018";18,5748
+"2018";"Argilas Comuns";"69072200";"Ladrilhos e placas (lajes), para pavimentação ou revestimento, exceto os das subposições 6907.30 e 6907.40, com um coeficiente de absorção de água, em peso, superior a 0,5 %, mas não superior a 10 %";1204346;866333;"M2";"METRO QUADRADO";"69072200_2018";10,9361
+"2018";"Argilas Comuns";"69073000";"Cubos, pastilhas e artigos semelhantes, para mosaicos, exceto os da subposição 6907.40";1012637;86434;"M2";"METRO QUADRADO";"69073000_2018";15,7877
+"2018";"Argilas Comuns";"69041000";"Tijolos de cerâmica";674309;7799;"MIL";"MILHEIRO";"69041000_2018";80,9944
+"2018";"Argilas Comuns";"69074000";"Peças de acabamento, de cerâmica";124946;8996;"M2";"METRO QUADRADO";"69074000_2018";18,5902
+"2018";"Argilas Comuns";"32072010";"Engobos";117927;170760;"KGL";"QUILOGRAMA LIQUIDO";"32072010_2018";4,0465
+"2018";"Argilas Plásticas";"69091930";"Colméia de cerâmica à base de alumina (Al2O3), sílica (SiO2) e óxido de magnésio (MgO), de depuradores por conversão catalítica de gases de escape de veículos";26146969;1337488;"KGL";"QUILOGRAMA LIQUIDO";"69091930_2018";22,5284
+"2018";"Argilas Plásticas";"69120000";"Louça, outros artigos de uso doméstico e artigos de higiene ou de toucador, de cerâmica, exceto de porcelana";23899995;8909619;"KGL";"QUILOGRAMA LIQUIDO";"69120000_2018";3,5211
+"2018";"Argilas Plásticas";"85462000";"Isoladores de cerâmica para uso elétrico";22889454;10427952;"KGL";"QUILOGRAMA LIQUIDO";"85462000_2018";10,1842
+"2018";"Argilas Plásticas";"69091990";"Outros aparelhos e artefatos de cerâmica, para uso químico/técnico";11296623;2431051;"KGL";"QUILOGRAMA LIQUIDO";"69091990_2018";165,58
+"2018";"Argilas Plásticas";"85051910";"Ímãs permanentes e artefatos destinados a tornarem-se ímãs permanentes após magnetização, de ferrita (cerâmicos)";8708786;3925687;"KGL";"QUILOGRAMA LIQUIDO";"85051910_2018";6,7521
+"2018";"Argilas Plásticas";"69091290";"Outros artefatos de cerâmica, exceto porcelana, com uma dureza equivalente a 9 ou mais na escala de Mohs";7369966;4209780;"KGL";"QUILOGRAMA LIQUIDO";"69091290_2018";4,703
+"2018";"Argilas Plásticas";"69109000";"Pias, lavatórios, etc, para sanitários, de cerâmica, exceto porcelana";3960531;123239;"UNID.";"NUMERO (UNIDADE)";"69109000_2018";66,897
+"2018";"Argilas Plásticas";"85471000";"Peças isolantes de cerâmica, para máquinas, aparelhos e instalações elétricas";3531972;509477;"KGL";"QUILOGRAMA LIQUIDO";"85471000_2018";32,6316
+"2018";"Argilas Plásticas";"38029030";"Atapulgita";2401239;5249823;"KGL";"QUILOGRAMA LIQUIDO";"38029030_2018";0,468
+"2018";"Argilas Plásticas";"69099000";"Alguidares e outros recipientes de cerâmica para uso rural, etc.";962799;26149;"KGL";"QUILOGRAMA LIQUIDO";"69099000_2018";826,9396
+"2018";"Argilas Refratárias";"85322410";"Outros condensadores fixos, com dielétrico de cerâmica, de camadas múltiplas, próprios para montagem em superfície (SMD - Surface Mounted Device)";166074680;40935844752;"UNID.";"NUMERO (UNIDADE)";"85322410_2018";0,0132
+"2018";"Argilas Refratárias";"82090011";"Plaquetas ou pastilhas, não montadas, de ceramais (cermets), intercambiáveis";66383677;182064;"KGL";"QUILOGRAMA LIQUIDO";"82090011_2018";378,1829
+"2018";"Argilas Refratárias";"81130010";"Chapas, folhas, tiras, fios, hastes, pastilhas e plaquetas, de ceramais";11993194;172873;"KGL";"QUILOGRAMA LIQUIDO";"81130010_2018";87,3998
+"2018";"Argilas Refratárias";"38160090";"Outros concretos e composições semelhantes, refratrários";9195667;6008926;"KGL";"QUILOGRAMA LIQUIDO";"38160090_2018";1,5876
+"2018";"Argilas Refratárias";"38160019";"Outros cimentos e argamassas, refratrários";8098926;9491758;"KGL";"QUILOGRAMA LIQUIDO";"38160019_2018";1,3829
+"2018";"Argilas Refratárias";"82090019";"Outras plaquetas ou pastilhas, não montadas, de ceramais (cermets)";3408175;33269;"KGL";"QUILOGRAMA LIQUIDO";"82090019_2018";123,2
+"2018";"Argilas Refratárias";"85322390";"Outros condensadores fixos com dielétrico de cerâmica, de uma só camada";3040712;115930170;"UNID.";"NUMERO (UNIDADE)";"85322390_2018";0,0486
+"2018";"Argilas Refratárias";"85322310";"Condensadores fixos com dielétrico de cerâmica, de uma só camada, próprios para montagem em superfície (SMD - Surface Mounted Device)";2792336;818983278;"UNID.";"NUMERO (UNIDADE)";"85322310_2018";0,0108
+"2018";"Argilas Refratárias";"81130090";"Outras obras de ceramais, desperdícios e resíduos de ceramais";2554538;94720;"KGL";"QUILOGRAMA LIQUIDO";"81130090_2018";108,657
+"2018";"Argilas Refratárias";"69039099";"Outros produtos cerâmicos refratrários";2059981;328505;"KGL";"QUILOGRAMA LIQUIDO";"69039099_2018";30,1513
+"2018";"Arsênio";"28048000";"Arsênio";86263;40001;"KGL";"QUILOGRAMA LIQUIDO";"28048000_2018";2,8384
+"2018";"Bário";"25111000";"Sulfato de bário natural (baritina)";6629406;32078378;"KGL";"QUILOGRAMA LIQUIDO";"25111000_2018";0,4781
+"2018";"Bário";"28332710";"Sulfato de bário, com teor de BaSO4 superior ou igual a 97,5 %, em peso";5719450;7595243;"KGL";"QUILOGRAMA LIQUIDO";"28332710_2018";0,8427
+"2018";"Bário";"28366010";"Carbonato de bário, com um teor de BaCO3 superior ou igual a 98%, em peso";2639797;4680913;"KGL";"QUILOGRAMA LIQUIDO";"28366010_2018";0,5634
+"2018";"Bário";"28164010";"Hidróxido de bário";930792;338749;"KGL";"QUILOGRAMA LIQUIDO";"28164010_2018";2,4404
+"2018";"Bário";"32064210";"Litopônio";402740;239800;"KGL";"QUILOGRAMA LIQUIDO";"32064210_2018";1,8371
+"2018";"Bário";"28366090";"Outros carbonatos de bário";223239;457840;"KGL";"QUILOGRAMA LIQUIDO";"28366090_2018";2,3358
+"2018";"Bário";"28332790";"Outros sulfatos de bário";105674;115295;"KGL";"QUILOGRAMA LIQUIDO";"28332790_2018";0,6762
+"2018";"Bário";"25112000";"Carbonato de bário natural (witherita)";65030;108000;"KGL";"QUILOGRAMA LIQUIDO";"25112000_2018";0,6021
+"2018";"Bário";"48101382";"Papéis e cartões baritados, sem fibras obtidas por processo mecânico ou químico-mecânico ou em que a percentagem destas fibras não seja superior a 10 %, em peso, do conteúdo total de fibras, em rolos, de peso superior a 150 g/m2";1299;86;"KGL";"QUILOGRAMA LIQUIDO";"48101382_2018";14,625
+"2018";"Bário";"48101482";"Papel baritado, sem fibra obtida por processo mecânico ou químico-mecânico ou em que a percentagem destas fibras < 10 %,em peso,do conteúdo total de fibras,de peso > 150 g/m2,em folhas em que um dos lados < 435 mm e o outro < 297 mm,quando não dobradas";710;52;"KGL";"QUILOGRAMA LIQUIDO";"48101482_2018";14,25
+"2018";"Bauxita";"76011000";"Alumínio não ligado, em formas brutas";646547687;6360450;"TML";"TONELADA METRICA LIQUIDA";"76011000_2018";2323,8232
+"2018";"Bauxita";"76020000";"Desperdícios e resíduos, de alumínio";245863977;139599,789;"TML";"TONELADA METRICA LIQUIDA";"76020000_2018";1700,5
+"2018";"Bauxita";"76061290";"Outras chapas e tiras, de ligas alumínio, espessura > 0.2mm";183504749;62102,492;"TML";"TONELADA METRICA LIQUIDA";"76061290_2018";4336,35
+"2018";"Bauxita";"76169900";"Outras obras de alumínio";168394141;14801,768;"TML";"TONELADA METRICA LIQUIDA";"76169900_2018";33572,15
+"2018";"Bauxita";"76012000";"Ligas de alumínio, em formas brutas";143852692;58992,731;"TML";"TONELADA METRICA LIQUIDA";"76012000_2018";2484,9
+"2018";"Bauxita";"76071190";"Outras folhas e tiras, de alumínio sem suporte, laminado, espessura <= 0.2 mm";83954314;23462,151;"TML";"TONELADA METRICA LIQUIDA";"76071190_2018";4088,15
+"2018";"Bauxita";"76071990";"Outras folhas e tiras, de alumínio, sem suporte, espessura <= 0.2mm";65119506;11891,804;"TML";"TONELADA METRICA LIQUIDA";"76071990_2018";10167,35
+"2018";"Bauxita";"76149010";"Outros cabos de alumínio, não isolados para usos elétricos";57889264;27387,667;"TML";"TONELADA METRICA LIQUIDA";"76149010_2018";5523,8
+"2018";"Bauxita";"76072000";"Folhas e tiras, delgadas, de alumínio (mesmo impressas ou com suporte de papel, cartão, plásticos ou semelhantes), de espessura não superior a 0,2 mm, com suporte";53356320;10555,844;"TML";"TONELADA METRICA LIQUIDA";"76072000_2018";7611,8
+"2018";"Bauxita";"85322200";"Condensador fixo eletrolítico, de alumínio";46313240;798359402;"UNID.";"NUMERO (UNIDADE)";"85322200_2018";0,1324
+"2018";"Bentonita";"25081000";"Bentonita";21589755;96426879;"KGL";"QUILOGRAMA LIQUIDO";"25081000_2018";0,4968
+"2018";"Bentonita";"38029020";"Bentonita (matéria mineral natural ativada)";6253608;90596245;"KGL";"QUILOGRAMA LIQUIDO";"38029020_2018";1,6454
+"2018";"Berílio";"81121900";"Obras de berílio";27747;5;"KGL";"QUILOGRAMA LIQUIDO";"81121900_2018";5549,4
+"2018";"Bismuto";"81060010";"Bismuto em bruto";1645134;145300;"KGL";"QUILOGRAMA LIQUIDO";"81060010_2018";11,6615
+"2018";"Bismuto";"81060090";"Obras de bismuto, desperdícios e resíduos, de bismuto";423864;7237;"KGL";"QUILOGRAMA LIQUIDO";"81060090_2018";82,4778
+"2018";"Bismuto";"28274911";"Oxicloretos de bismuto";70753;1639;"KGL";"QUILOGRAMA LIQUIDO";"28274911_2018";41,4075
+"2018";"Bismuto";"28273970";"Cloreto de bismuto";6087;2;"KGL";"QUILOGRAMA LIQUIDO";"28273970_2018";2761,5
+"2018";"Bismuto";"28419083";"Aluminato de bismuto";43;1;"KGL";"QUILOGRAMA LIQUIDO";"28419083_2018";43
+"2018";"Boro";"25280000";"Boratos naturais e seus concentrados (calcinados ou não), exceto boratos extraídos de salmouras naturais; ácido bórico natural com um teor máximo de 85 % de H3BO3, em produto seco";35653243;149013010;"KGL";"QUILOGRAMA LIQUIDO";"25280000_2018";0,2625
+"2018";"Boro";"28100010";"Ácido ortobórico";24981074;45258262;"KGL";"QUILOGRAMA LIQUIDO";"28100010_2018";0,5798
+"2018";"Boro";"28401900";"Outros tetraboratos dissódicos (borax refinado)";11912316;21979814;"KGL";"QUILOGRAMA LIQUIDO";"28401900_2018";0,5802
+"2018";"Boro";"28402000";"Outros boratos";11511692;5490921;"KGL";"QUILOGRAMA LIQUIDO";"28402000_2018";2,8533
+"2018";"Boro";"28500010";"Nitreto de boro";1437115;92734814;"QUILT";"QUILATE";"28500010_2018";0,4526
+"2018";"Boro";"28499010";"Carbonetos de constituição química definida ou não, de boro";1187036;87347;"KGL";"QUILOGRAMA LIQUIDO";"28499010_2018";24,8434
+"2018";"Boro";"28401100";"Tetraborato dissódico (borax refinado) anidro";741169;858564;"KGL";"QUILOGRAMA LIQUIDO";"28401100_2018";1,03
+"2018";"Boro";"28100090";"Óxidos de boro e outros ácidos bóricos";413392;94014;"KGL";"QUILOGRAMA LIQUIDO";"28100090_2018";20,3333
+"2018";"Boro";"28403000";"Peroxoboratos (perboratos)";186161;167446;"KGL";"QUILOGRAMA LIQUIDO";"28403000_2018";3,5304
+"2018";"Bromo";"28275900";"Outros brometos e oxibrometos";3773172;2269451;"KGL";"QUILOGRAMA LIQUIDO";"28275900_2018";51
+"2018";"Bromo";"28275100";"Brometos de sódio ou de potássio";1068940;304800;"KGL";"QUILOGRAMA LIQUIDO";"28275100_2018";47,5
+"2018";"Bromo";"28299019";"Outros bromatos";5696;97;"KGL";"QUILOGRAMA LIQUIDO";"28299019_2018";34,576
+"2018";"Bromo";"28299029";"Outros perbromatos";4083;173;"KGL";"QUILOGRAMA LIQUIDO";"28299029_2018";23,9442
+"2018";"Cádmio";"28259010";"Óxido de cádmio";281794;39671;"KGL";"QUILOGRAMA LIQUIDO";"28259010_2018";7,63
+"2018";"Cádmio";"32064910";"Pigmentos preparados à base de compostos de cádmio";151335;33351;"KGL";"QUILOGRAMA LIQUIDO";"32064910_2018";23,1563
+"2018";"Cádmio";"81072010";"Cádmio em formas brutas";23524;5021;"KGL";"QUILOGRAMA LIQUIDO";"81072010_2018";3,7028
+"2018";"Cádmio";"28273991";"Cloreto de cádmio";1757;26;"KGL";"QUILOGRAMA LIQUIDO";"28273991_2018";75,38
+"2018";"Cádmio";"81079000";"Obras de cádmio";447;0;"KGL";"QUILOGRAMA LIQUIDO";"81079000_2018";NA
+"2018";"Cádmio";"81072020";"Cádmio em pós";241;0;"KGL";"QUILOGRAMA LIQUIDO";"81072020_2018";NA
+"2018";"Calcário";"28352500";"Hidrogeno-ortofosfato de cálcio (fosfato dicálcico)";39511921;94307,849;"TML";"TONELADA METRICA LIQUIDA";"28352500_2018";1415,2
+"2018";"Calcário";"68101900";"Outras telhas, ladrilhos, semelhantes, de cimento, de concreto ou de pedra artificial, mesmo armadas";30775447;44734,884;"TML";"TONELADA METRICA LIQUIDA";"68101900_2018";710,9
+"2018";"Calcário";"28352600";"Outros fosfatos de cálcio";29757595;64555,457;"TML";"TONELADA METRICA LIQUIDA";"28352600_2018";1148,45
+"2018";"Calcário";"25231000";"Cimentos não pulverizados, denominados clinkers";20323422;487150,34;"TML";"TONELADA METRICA LIQUIDA";"25231000_2018";100,8
+"2018";"Calcário";"25221000";"Cal viva";14603161;88979,38;"TML";"TONELADA METRICA LIQUIDA";"25221000_2018";192,3
+"2018";"Calcário";"68109900";"Outras obras de cimento, de concreto ou de pedra artificial, mesmo armadas";13697613;19343,314;"TML";"TONELADA METRICA LIQUIDA";"68109900_2018";856,1
+"2018";"Calcário";"25232100";"Cimentos Portland brancos, mesmo corados artificialmente";12892107;128773,321;"TML";"TONELADA METRICA LIQUIDA";"25232100_2018";106,7
+"2018";"Calcário";"38249971";"Cal sodada; carbonato de cálcio hidrófugo";8585907;36328,918;"TML";"TONELADA METRICA LIQUIDA";"38249971_2018";466,8
+"2018";"Calcário";"28365000";"Carbonato de cálcio";7971694;24542,277;"TML";"TONELADA METRICA LIQUIDA";"28365000_2018";570,2
+"2018";"Calcário";"28281000";"Hipoclorito de cálcio comercial e outros hipocloritos de cálcio";6928235;5916,3;"TML";"TONELADA METRICA LIQUIDA";"28281000_2018";1210,2
+"2018";"Carvão Mineral";"27011200";"Hulha betuminosa, não aglomerada";2842779158;19797242222;"KGL";"QUILOGRAMA LIQUIDO";"27011200_2018";0,1508
+"2018";"Carvão Mineral";"27040012";"Coques com granulometria inferior a 80 mm";556532424;1656607396;"KGL";"QUILOGRAMA LIQUIDO";"27040012_2018";0,3389
+"2018";"Carvão Mineral";"27011900";"Outras hulhas, mesmo em pó, mas não aglomeradas";346639543;2271008308;"KGL";"QUILOGRAMA LIQUIDO";"27011900_2018";0,1414
+"2018";"Carvão Mineral";"27011100";"Hulha antracita, não aglomerada";192921526;1645148922;"KGL";"QUILOGRAMA LIQUIDO";"27011100_2018";0,1215
+"2018";"Carvão Mineral";"85451100";"Eletrodos de carvão, dos tipos utilizados em fornos";147855986;16190339;"KGL";"QUILOGRAMA LIQUIDO";"85451100_2018";11,5983
+"2018";"Carvão Mineral";"27040011";"Coques com granulometria igual ou superior a 80 mm";65748619;178423734;"KGL";"QUILOGRAMA LIQUIDO";"27040011_2018";0,4014
+"2018";"Carvão Mineral";"27079990";"Outros óleos e produtos da destilação do alcatrão de hulha";44429416;54885858;"KGL";"QUILOGRAMA LIQUIDO";"27079990_2018";1,0888
+"2018";"Carvão Mineral";"27081000";"Breu obtido a partir do alcatrão de hulha ou de outros alcatrões minerais";34746620;45264107;"KGL";"QUILOGRAMA LIQUIDO";"27081000_2018";0,9646
+"2018";"Carvão Mineral";"27075000";"Outras misturas de hidrocarbonetos aromáticos que destilem, incluindo as perdas, uma fração igual ou superior a 65 %, em volume, a 250 °C, segundo o método ASTM D 86";17468598;23771762;"KGL";"QUILOGRAMA LIQUIDO";"27075000_2018";0,9043
+"2018";"Carvão Mineral";"38021000";"Carvões ativados";16531268;6566841;"KGL";"QUILOGRAMA LIQUIDO";"38021000_2018";3,8049
+"2018";"Caulim";"48109290";"Outros papéis e cartões de camadas múltiplas, revestidos de caulim, em rolos ou folhas";48252173;53822,127;"TML";"TONELADA METRICA LIQUIDA";"48109290_2018";857,7
+"2018";"Caulim";"69111090";"Outros artigos para serviços de mesa/cozinha, de porcelana";12436574;3795,478;"TML";"TONELADA METRICA LIQUIDA";"69111090_2018";4644,1
+"2018";"Caulim";"69111010";"Conjunto (jogo ou aparelho) para jantar, café ou chá, apresentado em embalagem comum, de porcelana";7610696;2619,921;"TML";"TONELADA METRICA LIQUIDA";"69111010_2018";4164,7
+"2018";"Caulim";"25070010";"Caulim (caulino), mesmo calcinados";5533524;11940,09;"TML";"TONELADA METRICA LIQUIDA";"25070010_2018";591,7
+"2018";"Caulim";"69101000";"Pias, lavatórios, etc, para sanitários, de porcelana";5276113;235797;"UNID.";"NUMERO (UNIDADE)";"69101000_2018";51,8261
+"2018";"Caulim";"25070090";"Outras argilas caulínicas, mesmo calcinadas";3945790;10810,951;"TML";"TONELADA METRICA LIQUIDA";"25070090_2018";420,3
+"2018";"Caulim";"69131000";"Estatuetas/outros objetos ornamentais de porcelana";2924807;1678,047;"TML";"TONELADA METRICA LIQUIDA";"69131000_2018";4339,3
+"2018";"Caulim";"48109990";"Outros papéis/cartões, revestidos de caulim, em rolos/folhas";2917398;2364,291;"TML";"TONELADA METRICA LIQUIDA";"48109990_2018";2939,5
+"2018";"Caulim";"48109910";"Outros papéis e cartões revestidos de caulim, em tiras ou rolos de largura não superior a 15 cm ou em folhas em que nenhum lado exceda 360 mm, quando não dobradas";1137648;988,846;"TML";"TONELADA METRICA LIQUIDA";"48109910_2018";1132,85
+"2018";"Caulim";"69119000";"Outros artigos de uso doméstico, higiene, etc, de porcelana";921189;593,43;"TML";"TONELADA METRICA LIQUIDA";"69119000_2018";6033,9
+"2018";"Chumbo";"78011090";"Outras formas brutas de chumbo refinado";141621084;57344;"TML";"TONELADA METRICA LIQUIDA";"78011090_2018";2491,0339
+"2018";"Chumbo";"85072010";"Outros acumuladores elétricos, de chumbo, peso <= 1000 kg";94513326;6548280;"UNID.";"NUMERO (UNIDADE)";"85072010_2018";97,2
+"2018";"Chumbo";"78019100";"Chumbos que contenham antimônio como segundo elemento predominante em peso";22788354;434848;"TML";"TONELADA METRICA LIQUIDA";"78019100_2018";2390,8579
+"2018";"Chumbo";"85071090";"Outros acumuladores elétricos de chumbo";20516319;276249;"UNID.";"NUMERO (UNIDADE)";"85071090_2018";96,1282
+"2018";"Chumbo";"85071010";"Acumuladores elétricos de chumbo, do tipo utilizado para o arranque dos motores de pistão, de capacidade inferior ou igual a 20 Ah e tensão inferior ou igual a 12 V";11948714;1093161;"UNID.";"NUMERO (UNIDADE)";"85071010_2018";25,8556
+"2018";"Chumbo";"78019900";"Outras formas brutas de chumbo";5140938;2583;"TML";"TONELADA METRICA LIQUIDA";"78019900_2018";1902,6984
+"2018";"Chumbo";"93062900";"Chumbos para carabinas de ar comprimido, partes para cartuchos";2816336;665,288;"TML";"TONELADA METRICA LIQUIDA";"93062900_2018";6266,7
+"2018";"Chumbo";"85072090";"Outros acumuladores elétricos, de chumbo";2607609;50294;"UNID.";"NUMERO (UNIDADE)";"85072090_2018";179,5
+"2018";"Chumbo";"38111100";"Preparações antidetonantes à base de compostos de chumbo";2399036;63;"TML";"TONELADA METRICA LIQUIDA";"38111100_2018";36846,5
+"2018";"Chumbo";"78060090";"Outras obras de chumbo";1491767;355,135;"TML";"TONELADA METRICA LIQUIDA";"78060090_2018";11331,35
+"2018";"Cobalto";"81052029";"Outros pós";24351786;1297,565;"TML";"TONELADA METRICA LIQUIDA";"81052029_2018";36879,45
+"2018";"Cobalto";"81052010";"Cobalto em formas brutas";21066854;263,767;"TML";"TONELADA METRICA LIQUIDA";"81052010_2018";81779,25
+"2018";"Cobalto";"28220090";"Outros óxidos e hidróxidos de cobalto, inclusive os comerciais";14217685;714,757;"TML";"TONELADA METRICA LIQUIDA";"28220090_2018";46862
+"2018";"Cobalto";"28220010";"Tetraóxido de tricobalto (óxido salino de cobalto)";4642070;85,4;"TML";"TONELADA METRICA LIQUIDA";"28220010_2018";59670,5
+"2018";"Cobalto";"81059010";"Chapas, folhas, tiras, fios, hastes, pastilhas e plaquetas, de cobalto";3468767;28,559;"TML";"TONELADA METRICA LIQUIDA";"81059010_2018";141248,95
+"2018";"Cobalto";"81059090";"Outras obras de cobalto";2414622;28,002;"TML";"TONELADA METRICA LIQUIDA";"81059090_2018";132952
+"2018";"Cobalto";"81052021";"Pós de ligas à base de cobalto-cromo-tungstênio (volfrâmio) (estelites)";1787956;30,657;"TML";"TONELADA METRICA LIQUIDA";"81052021_2018";57186,55
+"2018";"Cobalto";"28273997";"Cloreto de cobalto";126042;7,081;"TML";"TONELADA METRICA LIQUIDA";"28273997_2018";257166,65
+"2018";"Cobalto";"81052090";"Mates de cobalto e outros produtos intermediários metálicos";76571;1,064;"TML";"TONELADA METRICA LIQUIDA";"81052090_2018";113500
+"2018";"Cobalto";"26050000";"Minérios de cobalto e seus concentrados";8221;0,048;"TML";"TONELADA METRICA LIQUIDA";"26050000_2018";168357,1
+"2018";"Cobre";"74031100";"Cátodos e seus elementos de cobre refinado, em formas brutas";1322589560;199314;"TML";"TONELADA METRICA LIQUIDA";"74031100_2018";6823,5421
+"2018";"Cobre";"26030010";"Sulfetos de minérios de cobre e seus concentrados";712655807;376973,947;"TML";"TONELADA METRICA LIQUIDA";"26030010_2018";1791
+"2018";"Cobre";"74081100";"Fios de cobre refinado, com a maior dimensão da seção transversal superior a 6 mm";80853402;11145,824;"TML";"TONELADA METRICA LIQUIDA";"74081100_2018";7558,95
+"2018";"Cobre";"74020000";"Cobre não refinado; ânodos de cobre para refinação eletrolítica";40837296;6310,612;"TML";"TONELADA METRICA LIQUIDA";"74020000_2018";8092,2
+"2018";"Cobre";"74111090";"Outros tubos de cobre refinado";32722196;3968,466;"TML";"TONELADA METRICA LIQUIDA";"74111090_2018";9689,05
+"2018";"Cobre";"74122000";"Acessórios para tubos (por exemplo, uniões, cotovelos, luvas), de ligas de cobre";32496263;1926,976;"TML";"TONELADA METRICA LIQUIDA";"74122000_2018";36437
+"2018";"Cobre";"74040000";"Desperdícios e resíduos, de cobre";23872655;3973,187;"TML";"TONELADA METRICA LIQUIDA";"74040000_2018";5834,35
+"2018";"Cobre";"38089291";"Fungicidas à base de hidróxido de cobre, de oxicloreto de cobre ou de óxido cuproso";19015139;3394,042;"TML";"TONELADA METRICA LIQUIDA";"38089291_2018";5779,8
+"2018";"Cobre";"74199990";"Aparelhos para cozinhar/aquecer, de cobre, não elétrico, uso doméstico";13726614;329,696;"TML";"TONELADA METRICA LIQUIDA";"74199990_2018";74521,35
+"2018";"Cobre";"85441100";"Fios de cobre para bobinar, isolados para usos elétricos (incluindo os envernizados ou oxidados anodicamente)";10487990;779,525;"TML";"TONELADA METRICA LIQUIDA";"85441100_2018";21449,95
+"2018";"Coríndon";"38160021";"Preparações refratárias que contenham grafita e 50 % ou mais, em peso, de coríndon";678499;352062;"KGL";"QUILOGRAMA LIQUIDO";"38160021_2018";1,934
+"2018";"Cromo";"73064000";"Outros tubos soldados, de seção circular, de aço inoxidável";84690133;32078,941;"TML";"TONELADA METRICA LIQUIDA";"73064000_2018";2925,1
+"2018";"Cromo";"73239300";"Outros artefatos domésticos, de aços inoxidáveis, e partes";49222055;12090,099;"TML";"TONELADA METRICA LIQUIDA";"73239300_2018";7311,05
+"2018";"Cromo";"72193300";"Produtos laminados planos de aço inoxidável, de largura igual ou superior a 600 mm, simplesmente laminados a frio, de espessura superior a 1 mm, mas inferior a 3 mm";43240283;19811,116;"TML";"TONELADA METRICA LIQUIDA";"72193300_2018";2351,8
+"2018";"Cromo";"72193400";"Produtos laminados planos de aço inoxidável, de largura igual ou superior a 600 mm, simplesmente laminados a frio, de espessura igual ou superior a 0,5 mm, mas não superior a 1 mm";41031343;19083,258;"TML";"TONELADA METRICA LIQUIDA";"72193400_2018";2027,2
+"2018";"Cromo";"72222000";"Barras de aço inxodiável simplesmente obtidas ou completamente acabadas a frio";40404601;16050,18;"TML";"TONELADA METRICA LIQUIDA";"72222000_2018";4110
+"2018";"Cromo";"72202090";"Outros produtos laminados planos de aço inoxidável, de largura inferior a 600 mm, simplesmente laminados a frio";39536323;10982,749;"TML";"TONELADA METRICA LIQUIDA";"72202090_2018";4508
+"2018";"Cromo";"73042400";"Outros tubos, dos tipos utilizados na extração de petróleo ou de gás, de aço inoxidável";37953974;3260,348;"TML";"TONELADA METRICA LIQUIDA";"73042400_2018";17055,6
+"2018";"Cromo";"28332960";"Sulfatos de cromo";37076684;43919,3;"TML";"TONELADA METRICA LIQUIDA";"28332960_2018";869,95
+"2018";"Cromo";"73072900";"Outros acessórios para tubos, de aços inoxidáveis";31122806;796,279;"TML";"TONELADA METRICA LIQUIDA";"73072900_2018";76714,3
+"2018";"Cromo";"72024100";"Ferro-cromo, que contenham, em peso, mais de 4 % de carbono";28438844;20328,795;"TML";"TONELADA METRICA LIQUIDA";"72024100_2018";1394,9
+"2018";"Diamante";"68042119";"Outros mós de diamante natural ou sintético, aglomerado, de diâmetro inferior a 53,34 cm";82202731;3447685;"KGL";"QUILOGRAMA LIQUIDO";"68042119_2018";115,4649
+"2018";"Diamante";"68042190";"Outros mós de diamante natural ou sintético, aglomerado";20518016;1129167;"KGL";"QUILOGRAMA LIQUIDO";"68042190_2018";67,9572
+"2018";"Diamante";"71023900";"Outros diamantes não industriais, não montados, não engastados";16297014;67174;"QUILT";"QUILATE";"71023900_2018";249,7656
+"2018";"Diamante";"68042111";"Mós de diamante natural ou sintético, aglomerado, de diâmetro inferior a 53,34 cm, aglomerados com resina";4071134;536255;"KGL";"QUILOGRAMA LIQUIDO";"68042111_2018";58,2
+"2018";"Diamante";"71051000";"Pó de diamantes";3338230;37710795;"QUILT";"QUILATE";"71051000_2018";0,1095
+"2018";"Diamante";"71022100";"Diamantes industriais, em bruto ou simplesmente serrados, clivados ou desbastados";23350;10096;"QUILT";"QUILATE";"71022100_2018";3,0244
+"2018";"Diamante";"71023100";"Diamantes não industriais, em bruto ou simplesmente serrados, clivados ou desbastados";13486;71;"QUILT";"QUILATE";"71023100_2018";189,9437
+"2018";"Diamante";"71022900";"Outros diamantes industriais, não montados, nem engastados";4682;1129;"QUILT";"QUILATE";"71022900_2018";3,5
+"2018";"Diatomita";"25120000";"Farinhas siliciosas fósseis (por exemplo, kieselguhr, tripolita, diatomita) e outras terras siliciosas análogas de densidade aparente não superior a 1, mesmo calcinadas";14235675;26182908;"KGL";"QUILOGRAMA LIQUIDO";"25120000_2018";0,5823
+"2018";"Diatomita";"38029010";"Farinhas silíciosas fósseis (ativadas)";8105545;15377206;"KGL";"QUILOGRAMA LIQUIDO";"38029010_2018";0,5708
+"2018";"Diatomita";"38029040";"Outras argilas e terras ativadas";975689;2290150;"KGL";"QUILOGRAMA LIQUIDO";"38029040_2018";4,4637
+"2018";"Dolomita";"25181000";"Dolomita não calcinada nem sinterizada, denominada 'crua'";5920385;392878302;"KGL";"QUILOGRAMA LIQUIDO";"25181000_2018";0,1192
+"2018";"Dolomita";"25182000";"Dolomita calcinada ou sinterizada";277590;600050;"KGL";"QUILOGRAMA LIQUIDO";"25182000_2018";0,4634
+"2018";"Dolomita";"25183000";"Aglomerados de dolomita";11576;12303;"KGL";"QUILOGRAMA LIQUIDO";"25183000_2018";0,3123
+"2018";"Enxofre";"25030010";"Enxofre de qualquer espécie, exceto o enxofre sublimado, o precipitado e o coloidal, a granel";320334185;2225352018;"KGL";"QUILOGRAMA LIQUIDO";"25030010_2018";0,139
+"2018";"Enxofre";"28070010";"Ácido sulfúrico";32740863;546147874;"KGL";"QUILOGRAMA LIQUIDO";"28070010_2018";3,5227
+"2018";"Enxofre";"25030090";"Outras formas de enxofre de qualquer espécie, exceto o enxofre sublimado, o precipitado e o coloidal";30690095;154522555;"KGL";"QUILOGRAMA LIQUIDO";"25030090_2018";0,2348
+"2018";"Enxofre";"28332990";"Outros sulfatos";6554476;12148140;"KGL";"QUILOGRAMA LIQUIDO";"28332990_2018";10,6272
+"2018";"Enxofre";"28131000";"Dissulfeto de carbono";6532505;9485614;"KGL";"QUILOGRAMA LIQUIDO";"28131000_2018";0,8341
+"2018";"Enxofre";"38089292";"Fungicida à base de enxofre ou de ziram";1934875;1026345;"KGL";"QUILOGRAMA LIQUIDO";"38089292_2018";1,9655
+"2018";"Enxofre";"28111910";"Ácido aminossulfônico (ácido sulfâmico)";1778590;2510899;"KGL";"QUILOGRAMA LIQUIDO";"28111910_2018";0,7884
+"2018";"Enxofre";"28334090";"Outros peroxossulfatos (persulfatos)";1518828;742556;"KGL";"QUILOGRAMA LIQUIDO";"28334090_2018";2,6173
+"2018";"Enxofre";"28309019";"Outros sulfetos";860029;99449;"KGL";"QUILOGRAMA LIQUIDO";"28309019_2018";13,7389
+"2018";"Enxofre";"28322000";"Outros sulfitos";439891;344742;"KGL";"QUILOGRAMA LIQUIDO";"28322000_2018";7,4033
+"2018";"Estanho";"80070020";"Pós e escamas, de estanho";4223615;106,335;"TML";"TONELADA METRICA LIQUIDA";"80070020_2018";39595,3
+"2018";"Estanho";"26090000";"Minérios de estanho e seus concentrados";2661936;140;"TML";"TONELADA METRICA LIQUIDA";"26090000_2018";18530,05
+"2018";"Estanho";"80012000";"Ligas de estanho, em forma bruta";1710521;77,723;"TML";"TONELADA METRICA LIQUIDA";"80012000_2018";24042,2
+"2018";"Estanho";"80030000";"Barras, perfis e fios, de estanho";1265392;41,13;"TML";"TONELADA METRICA LIQUIDA";"80030000_2018";39427,1
+"2018";"Estanho";"80070090";"Outras obras de estanho";496913;112,927;"TML";"TONELADA METRICA LIQUIDA";"80070090_2018";43000
+"2018";"Estanho";"28419049";"Outros estanatos";105781;6,073;"TML";"TONELADA METRICA LIQUIDA";"28419049_2018";20355
+"2018";"Estanho";"80070010";"Chapas, folhas e tiras, de estanho";45589;0,493;"TML";"TONELADA METRICA LIQUIDA";"80070010_2018";103333,35
+"2018";"Estanho";"80011000";"Estanho não ligado, em forma bruta";25223;463;"TML";"TONELADA METRICA LIQUIDA";"80011000_2018";43,2284
+"2018";"Estanho";"80070030";"Tubos e seus acessórios, de estanho";7216;0,032;"TML";"TONELADA METRICA LIQUIDA";"80070030_2018";237600
+"2018";"Estrôncio";"28369200";"Carbonato de estrôncio";1568268;2021251;"KGL";"QUILOGRAMA LIQUIDO";"28369200_2018";0,8136
+"2018";"Estrôncio";"28051910";"Estrôncio";816477;108000;"KGL";"QUILOGRAMA LIQUIDO";"28051910_2018";9,1778
+"2018";"Estrôncio";"28273994";"Cloreto de estrôncio";221502;48920;"KGL";"QUILOGRAMA LIQUIDO";"28273994_2018";52
+"2018";"Estrôncio";"28164090";"Óxidos, hidróxidos, peróxidos de estrôncio, etc.";113558;5162;"KGL";"QUILOGRAMA LIQUIDO";"28164090_2018";17,5246
+"2018";"Estrôncio";"28419022";"Ferrito de estrôncio";1630;2000;"KGL";"QUILOGRAMA LIQUIDO";"28419022_2018";0,815
+"2018";"Feldspato";"25291000";"Feldspato";226039;542201;"KGL";"QUILOGRAMA LIQUIDO";"25291000_2018";0,376
+"2018";"Ferro";"73181500";"Outros parafusos e pinos ou pernos, mesmo com as porcas e arruelas, de ferro fundido, ferro ou aço";377237942;67595,292;"TML";"TONELADA METRICA LIQUIDA";"73181500_2018";13069,6
+"2018";"Ferro";"73269090";"Outras obras de ferro ou aço";312306181;42313,311;"TML";"TONELADA METRICA LIQUIDA";"73269090_2018";21454,5
+"2018";"Ferro";"72104910";"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, folheados ou chapeados, ou revestidos, galvanizados por outro processo, de espessura inferior a 4,75 mm";238505987;319796,867;"TML";"TONELADA METRICA LIQUIDA";"72104910_2018";910,05
+"2018";"Ferro";"72085100";"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, não folheados ou chapeados, nem revestidos, não enrolados, simplesmente laminados a quente, de espessura superior a 10 mm";170533828;207128,334;"TML";"TONELADA METRICA LIQUIDA";"72085100_2018";1223,5
+"2018";"Ferro";"72106100";"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, revestidos de ligas de alumínio-zinco";154584147;201753,777;"TML";"TONELADA METRICA LIQUIDA";"72106100_2018";807,5
+"2018";"Ferro";"73181600";"Porcas de ferro fundido, ferro ou aço";143439509;19858,383;"TML";"TONELADA METRICA LIQUIDA";"73181600_2018";15333,3
+"2018";"Ferro";"83071090";"Outros tubos flexíveis de ferro ou aço";142127588;11964,015;"TML";"TONELADA METRICA LIQUIDA";"83071090_2018";29250
+"2018";"Ferro";"73182900";"Outros artefatos não roscados, de ferro fundido, ferro ou aço";139823525;12717,247;"TML";"TONELADA METRICA LIQUIDA";"73182900_2018";29386,75
+"2018";"Ferro";"73261100";"Esferas e artefatos semelhantes, para moinhos, simplesmente forjadas ou estampadas, de ferro ou aço";97155876;104598,23;"TML";"TONELADA METRICA LIQUIDA";"73261100_2018";1020,9
+"2018";"Ferro";"72107010";"Produtos laminados planos, de ferro ou aço não ligado, de largura igual ou superior a 600 mm, folheados ou chapeados, pintados ou envernizados";95002865;94623,389;"TML";"TONELADA METRICA LIQUIDA";"72107010_2018";979,4
+"2018";"Fluorita";"28111100";"Fluoreto de hidrogênio (ácido fluorídrico)";16370480;10944898;"KGL";"QUILOGRAMA LIQUIDO";"28111100_2018";1,4962
+"2018";"Fluorita";"28269090";"Outros fluossilicatos, fluoraluminatos, sais complexos fluor";8579807;3330022;"KGL";"QUILOGRAMA LIQUIDO";"28269090_2018";4,4307
+"2018";"Fluorita";"25292100";"Espatoflúor, que contenha, em peso, 97 % ou menos de fluoreto de cálcio";4669399;19073770;"KGL";"QUILOGRAMA LIQUIDO";"25292100_2018";0,5441
+"2018";"Fluorita";"28269020";"Fluossilicatos de sódio ou de potássio";1764234;2831005;"KGL";"QUILOGRAMA LIQUIDO";"28269020_2018";0,6882
+"2018";"Fluorita";"28111940";"Fluorácidos e outros compostos de flúor";566974;140447;"KGL";"QUILOGRAMA LIQUIDO";"28111940_2018";5,3405
+"2018";"Fluorita";"28261990";"Outros fluoretos";522905;180517;"KGL";"QUILOGRAMA LIQUIDO";"28261990_2018";68
+"2018";"Fluorita";"25292200";"Espatoflúor, que contenha, em peso, mais de 97 % de fluoreto de cálcio";326631;713211;"KGL";"QUILOGRAMA LIQUIDO";"25292200_2018";0,6685
+"2018";"Fosfato";"31054000";"Diidrogeno-ortofosfato de amônio (fosfato monoamônico ou monoamoniacal), mesmo misturado com hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)";1378685631;3320784,737;"TML";"TONELADA METRICA LIQUIDA";"31054000_2018";435
+"2018";"Fosfato";"31055900";"Outros adubos/fertilizantes minerais químicos, com nitrogênio e fósforo";699516468;1930429,411;"TML";"TONELADA METRICA LIQUIDA";"31055900_2018";383,55
+"2018";"Fosfato";"31052000";"Adubos (fertilizantes) minerais ou químicos, que contenham os três elementos fertilizantes: nitrogênio (azoto), fósforo e potássio";357555378;1197606,259;"TML";"TONELADA METRICA LIQUIDA";"31052000_2018";696,45
+"2018";"Fosfato";"31031100";"Superfosfatos, que contenham, em peso, 35 % ou mais de pentóxido de difósforo (P2O5)";313283573;984404,151;"TML";"TONELADA METRICA LIQUIDA";"31031100_2018";318,2
+"2018";"Fosfato";"31031900";"Outros superfosfatos";140459953;1081439,402;"TML";"TONELADA METRICA LIQUIDA";"31031900_2018";133,2
+"2018";"Fosfato";"25101010";"Fosfatos de cálcio naturais, não moídos";132961055;1870294,025;"TML";"TONELADA METRICA LIQUIDA";"25101010_2018";72,7
+"2018";"Fosfato";"31053010";"Hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal), com teor de arsênio superior ou igual a 6 mg/kg";108501818;278027,749;"TML";"TONELADA METRICA LIQUIDA";"31053010_2018";405,2
+"2018";"Fosfato";"28092019";"Outros ácidos fosfóricos";68922755;175163,878;"TML";"TONELADA METRICA LIQUIDA";"28092019_2018";4542,75
+"2018";"Fosfato";"31053090";"Outros hidrogeno-ortofosfato de diamônio (fosfato diamônico ou diamoniacal)";32750507;82111,002;"TML";"TONELADA METRICA LIQUIDA";"31053090_2018";480,1
+"2018";"Fosfato";"28047010";"Fósforo branco";31998675;9204,185;"TML";"TONELADA METRICA LIQUIDA";"28047010_2018";3474,2
+"2018";"Gemas";"71031000";"Pedras preciosas (exceto diamantes) ou semipreciosas, em bruto ou simplesmente serradas ou desbastadas";5371475;1618297;"KGL";"QUILOGRAMA LIQUIDO";"71031000_2018";4,7135
+"2018";"Gemas";"71039100";"Rubis, safiras e esmeraldas, trabalhadas de outro modo";1334493;149237;"QUILT";"QUILATE";"71039100_2018";8,0044
+"2018";"Gemas";"71039900";"Outras pedras preciosas (exceto diamantes) ou semipreciosas, trabalhadas de outro modo";701893;91893998;"QUILT";"QUILATE";"71039900_2018";0,6177
+"2018";"Gemas";"71162090";"Outras obras de pedras preciosas/semi, sintética/reconstituída";366408;38316;"KGL";"QUILOGRAMA LIQUIDO";"71162090_2018";32,462
+"2018";"Gemas";"71059000";"Pó de pedras preciosas ou semipreciosas ou de pedras sintéticas";89071;589;"KGL";"QUILOGRAMA LIQUIDO";"71059000_2018";124,4593
+"2018";"Germânio";"28256010";"Óxidos de germanio";8414;2;"KGL";"QUILOGRAMA LIQUIDO";"28256010_2018";3480
+"2018";"Gipsita";"34070010";"Pastas para modelar";8812968;3709401;"KGL";"QUILOGRAMA LIQUIDO";"34070010_2018";7
+"2018";"Gipsita";"25201019";"Outras formas de gipsitas";5060760;347305448;"KGL";"QUILOGRAMA LIQUIDO";"25201019_2018";0,0188
+"2018";"Gipsita";"68091900";"Outras chapas, placas, painéis, ladrilhos e semelhantes, não ornamentados, de gesso ou de composições à base de gesso";2517357;7078607;"KGL";"QUILOGRAMA LIQUIDO";"68091900_2018";0,34
+"2018";"Gipsita";"68091100";"Chapas, placas, painéis, ladrilhos e semelhantes, não ornamentados, revestidos ou reforçados exclusivamente com papel ou cartão, de gesso ou de composições à base de gesso";2075896;11799332;"KGL";"QUILOGRAMA LIQUIDO";"68091100_2018";0,1774
+"2018";"Gipsita";"96099000";"Pastéis, carvões, gizes para escrever/desenhar e de alfaiate";2019551;1036763;"KGL";"QUILOGRAMA LIQUIDO";"96099000_2018";11
+"2018";"Gipsita";"34070020";"Ceras para dentistas";1334366;42006;"KGL";"QUILOGRAMA LIQUIDO";"34070020_2018";44,6696
+"2018";"Gipsita";"34070090";"Outras composições para dentistas, à base de gesso";1152439;502331;"KGL";"QUILOGRAMA LIQUIDO";"34070090_2018";19,3713
+"2018";"Gipsita";"25202010";"Gesso moído, apto para uso odontológico";763327;733491;"KGL";"QUILOGRAMA LIQUIDO";"25202010_2018";1,7109
+"2018";"Gipsita";"25202090";"Outras formas de gesso";699947;2823906;"KGL";"QUILOGRAMA LIQUIDO";"25202090_2018";0,5269
+"2018";"Gipsita";"25201011";"Gipsita em pedaços irregulares (pedras)";167466;1e+07;"KGL";"QUILOGRAMA LIQUIDO";"25201011_2018";0,0167
+"2018";"Grafita";"38011000";"Grafita artificial";179987360;19368,86;"TML";"TONELADA METRICA LIQUIDA";"38011000_2018";9240,7
+"2018";"Grafita";"68151020";"Tecidos de fibras de carbono, para usos não elétricos";15682071;146,127;"TML";"TONELADA METRICA LIQUIDA";"68151020_2018";109812,5
+"2018";"Grafita";"68151010";"Fibras de carbono, para usos não elétricos";13071128;740,743;"TML";"TONELADA METRICA LIQUIDA";"68151010_2018";83922,2
+"2018";"Grafita";"68151090";"Outras obras de grafita/outros carbonos, para uso não elétrico";9784971;204,481;"TML";"TONELADA METRICA LIQUIDA";"68151090_2018";117595,35
+"2018";"Grafita";"85451920";"Blocos de grafite, dos tipos utilizados como cátodos em cubas eletrolíticas";9195008;3357,235;"TML";"TONELADA METRICA LIQUIDA";"85451920_2018";2710
+"2018";"Grafita";"38019000";"Outras preparações à base de grafita/outros carbonos, em pasta, etc";4276769;999,656;"TML";"TONELADA METRICA LIQUIDA";"38019000_2018";25214,3
+"2018";"Grafita";"25041000";"Grafita natural em pó ou em escamas";1990514;1379,337;"TML";"TONELADA METRICA LIQUIDA";"25041000_2018";3333,9
+"2018";"Grafita";"69031090";"Outros produtos cerâmicos refratários de grafita ou outro carbono > 50%";1078341;211,838;"TML";"TONELADA METRICA LIQUIDA";"69031090_2018";36000
+"2018";"Grafita";"96092000";"Minas para lápis/lapiseiras";869958;81,846;"TML";"TONELADA METRICA LIQUIDA";"96092000_2018";11444,25
+"2018";"Grafita";"85451910";"Eletrodos de grafita, com teor de carbono superior ou igual a 99,9 %, em peso";713535;145,669;"TML";"TONELADA METRICA LIQUIDA";"85451910_2018";90611,1
+"2018";"Iodo";"28012090";"Outras formas de iodo";30113383;1269130;"KGL";"QUILOGRAMA LIQUIDO";"28012090_2018";24,9509
+"2018";"Iodo";"28299040";"Periodatos";180222;4548;"KGL";"QUILOGRAMA LIQUIDO";"28299040_2018";346
+"2018";"Iodo";"28012010";"Iodo sublimado";80912;2444;"KGL";"QUILOGRAMA LIQUIDO";"28012010_2018";249
+"2018";"Iodo";"28276019";"Outros iodetos";39339;4943;"KGL";"QUILOGRAMA LIQUIDO";"28276019_2018";97,7
+"2018";"Iodo";"28276029";"Outros oxiiodetos";1576;58;"KGL";"QUILOGRAMA LIQUIDO";"28276029_2018";39,6818
+"2018";"Iodo";"28299039";"Outros iodatos";1277;3;"KGL";"QUILOGRAMA LIQUIDO";"28299039_2018";226
+"2018";"Irídio";"28439030";"Ácido hexacloroirídico em solução aquosa com uma concentração igual ou superior a 17 %, mas inferior ou igual a 27 %, em peso";1752331;51;"KGL";"QUILOGRAMA LIQUIDO";"28439030_2018";33803,8889
+"2018";"Lítio";"85076000";"Acumuladores eletricos de ion de litio";271126039;68174120;"UNID.";"NUMERO (UNIDADE)";"85076000_2018";30,6667
+"2018";"Lítio";"85065010";"Pilhas e baterias de pilhas, elétricas, de lítio, com volume exterior não superior a 300 cm3";16412309;44243970;"UNID.";"NUMERO (UNIDADE)";"85065010_2018";3,0618
+"2018";"Lítio";"85065090";"Outras pilhas e baterias de pilhas, elétricas, de lítio";1889394;4787909;"UNID.";"NUMERO (UNIDADE)";"85065090_2018";41,5
+"2018";"Lítio";"28252020";"Hidróxido de litio";5153;0,032;"TML";"TONELADA METRICA LIQUIDA";"28252020_2018";179500
+"2018";"Lítio";"28273960";"Cloreto de lítio";6851;0,074;"TML";"TONELADA METRICA LIQUIDA";"28273960_2018";131500
+"2018";"Lítio";"28369100";"Carbonatos de litio";1746;0,004;"TML";"TONELADA METRICA LIQUIDA";"28369100_2018";132000
+"2018";"Lítio";"28332920";"Sulfato de lítio";439;0,003;"TML";"TONELADA METRICA LIQUIDA";"28332920_2018";142000
+"2018";"Lítio";"28342940";"Nitrato de litio";789;0,009;"TML";"TONELADA METRICA LIQUIDA";"28342940_2018";64000
+"2018";"Magnésio";"25199010";"Magnésia eletrofundida";39256387;28861381;"KGL";"QUILOGRAMA LIQUIDO";"25199010_2018";1,498
+"2018";"Magnésio";"81041900";"Outras formas brutas de magnésio";15734328;5522072;"KGL";"QUILOGRAMA LIQUIDO";"81041900_2018";2,8559
+"2018";"Magnésio";"81042000";"Desperdícios e resíduos, de magnésio";9289673;4977250;"KGL";"QUILOGRAMA LIQUIDO";"81042000_2018";2,0184
+"2018";"Magnésio";"25199090";"Magnésia calcinada a fundo e outros óxidos de magnésio";8937871;10791656;"KGL";"QUILOGRAMA LIQUIDO";"25199090_2018";1,102
+"2018";"Magnésio";"81041100";"Magnésio em formas brutas, que contenha pelo menos 99,8 %, em peso, de magnésio";7220249;2062645;"KGL";"QUILOGRAMA LIQUIDO";"81041100_2018";3,6858
+"2018";"Magnésio";"28332100";"Sulfato de magnésio";3423216;13456178;"KGL";"QUILOGRAMA LIQUIDO";"28332100_2018";13,5946
+"2018";"Magnésio";"81043000";"Aparas, resíduos de torno e grânulos, calibrados; pós, de magnésio";2466929;670061;"KGL";"QUILOGRAMA LIQUIDO";"81043000_2018";3,8511
+"2018";"Magnésio";"28161010";"Hidróxido de magnésio";1044863;333396;"KGL";"QUILOGRAMA LIQUIDO";"28161010_2018";6,067
+"2018";"Magnésio";"38160011";"Cimento/argamassa, a base de magnesita calcinada, refratrário";708666;1030989;"KGL";"QUILOGRAMA LIQUIDO";"38160011_2018";0,7934
+"2018";"Magnésio";"28419082";"Aluminato de magnésio";567583;390400;"KGL";"QUILOGRAMA LIQUIDO";"28419082_2018";1,6002
+"2018";"Manganês";"38089293";"Fungicida à base de mancozeb ou de maneb";135695267;36513,16;"TML";"TONELADA METRICA LIQUIDA";"38089293_2018";3452,3
+"2018";"Manganês";"72021900";"Outras ligas de ferro-manganês";41669380;22571,107;"TML";"TONELADA METRICA LIQUIDA";"72021900_2018";1881,9
+"2018";"Manganês";"85061010";"Pilhas alcalinas, de dióxido de manganês";33618725;139158027;"UNID.";"NUMERO (UNIDADE)";"85061010_2018";0,3508
+"2018";"Manganês";"81110010";"Manganês em bruto";27523941;12181,72;"TML";"TONELADA METRICA LIQUIDA";"81110010_2018";2151,05
+"2018";"Manganês";"81110090";"Outras obras de manganês, desperdícios e resíduos de manganês";13308784;5492,921;"TML";"TONELADA METRICA LIQUIDA";"81110090_2018";2236,7
+"2018";"Manganês";"72021100";"Ferro-manganês, que contenham, em peso, mais de 2 % de carbono";10166379;8301,183;"TML";"TONELADA METRICA LIQUIDA";"72021100_2018";1278,55
+"2018";"Manganês";"26020090";"Outros minérios de manganês e seus concentrados, incluindo os minérios de manganês ferruginosos e seus concentrados, de teor em manganês de 20 % ou mais, em peso, sobre o produto seco";10076786;39703,03;"TML";"TONELADA METRICA LIQUIDA";"26020090_2018";56000
+"2018";"Manganês";"81110020";"Chapas, folhas, tiras, fios, hastes, pastilhas e plaquetas, de manganês";8637586;3785,741;"TML";"TONELADA METRICA LIQUIDA";"81110020_2018";2155,5
+"2018";"Manganês";"72023000";"Ferro-silício-manganês";7923855;7161,041;"TML";"TONELADA METRICA LIQUIDA";"72023000_2018";1206,5
+"2018";"Manganês";"85061020";"Outras pilhas, de dióxido de manganês";5008794;203413508;"UNID.";"NUMERO (UNIDADE)";"85061020_2018";0,0525
+"2018";"Materiais Radioativos";"28442000";"Urânio enriquecido em U235 e seus compostos; plutônio e seus compostos; ligas, dispersões (incluindo os ceramais (cermets)), produtos cerâmicos e misturas que contenham urânio enriquecido em U235, plutônio ou compostos destes produtos";17770763;9123;"KGL";"QUILOGRAMA LIQUIDO";"28442000_2018";2297,1852
+"2018";"Materiais Radioativos";"28444010";"Molibdênio 99 absorvido em alumina, apto para a obtenção de Tecnécio 99 (reativo de diagnóstico para medicina nuclear)";12919164;0;"KGL";"QUILOGRAMA LIQUIDO";"28444010_2018";NA
+"2018";"Materiais Radioativos";"28444090";"Outros elementos, isotopos e compostos, radioativos, etc.";10485991;4739;"KGL";"QUILOGRAMA LIQUIDO";"28444090_2018";1411,6429
+"2018";"Materiais Radioativos";"28444020";"Cobalto 60";2101274;598;"KGL";"QUILOGRAMA LIQUIDO";"28444020_2018";813,65
+"2018";"Materiais Radioativos";"84013000";"Elementos combustíveis (cartuchos) não irradiados, para reatores nucleares";1767440;506;"KGL";"QUILOGRAMA LIQUIDO";"84013000_2018";1791,8574
+"2018";"Materiais Radioativos";"28444030";"Iodo 131";863473;0;"KGL";"QUILOGRAMA LIQUIDO";"28444030_2018";NA
+"2018";"Materiais Radioativos";"32065019";"Outros produtos inorgânicos utilizados em luminóforos, com substância radioativa";14876;343;"KGL";"QUILOGRAMA LIQUIDO";"32065019_2018";12,48
+"2018";"Materiais Radioativos";"28273992";"Cloreto de césio";4630;7;"KGL";"QUILOGRAMA LIQUIDO";"28273992_2018";326
+"2018";"Mercúrio";"28054000";"Mercúrio";1113319;21218;"KGL";"QUILOGRAMA LIQUIDO";"28054000_2018";62,8846
+"2018";"Mercúrio";"28521019";"Outros compostos inorgânicos de mercúrio";58508;270;"KGL";"QUILOGRAMA LIQUIDO";"28521019_2018";355
+"2018";"Mercúrio";"85063010";"Pilhas e baterias de pilhas, de óxido de mercúrio, com volume exterior não superior a 300 cm3";19649;2;"UNID.";"NUMERO (UNIDADE)";"85063010_2018";9824,5
+"2018";"Mercúrio";"28521014";"Cloreto de mercúrio ii (cloreto mercúrico), em outro modo";14138;77;"KGL";"QUILOGRAMA LIQUIDO";"28521014_2018";158,75
+"2018";"Mercúrio";"85063090";"Outras pilhas e baterias de pilhas, de óxido de mercúrio";6523;129;"UNID.";"NUMERO (UNIDADE)";"85063090_2018";22,025
+"2018";"Mercúrio";"28521011";"Óxidos de mercúrio, inorgânicos";4730;27;"KGL";"QUILOGRAMA LIQUIDO";"28521011_2018";222
+"2018";"Mercúrio";"28521012";"Cloreto de mercúrio i (cloreto mercuroso)";1115;9;"KGL";"QUILOGRAMA LIQUIDO";"28521012_2018";111,1111
+"2018";"Mercúrio";"28529000";"Outros compostos de mercúrio";276;0;"KGL";"QUILOGRAMA LIQUIDO";"28529000_2018";NA
+"2018";"Metais Preciosos - Diversos";"38151210";"Catalisadores em suporte, tendo como substância ativa um metal precioso ou um composto de metal precioso, em colméia cerâmica ou metálica para conversão catalítica de gases de escape de veículos";108241894;1208518;"KGL";"QUILOGRAMA LIQUIDO";"38151210_2018";61,0277
+"2018";"Metais Preciosos - Diversos";"38151900";"Outros catalizadores em suporte";91416228;2627260;"KGL";"QUILOGRAMA LIQUIDO";"38151900_2018";44,1579
+"2018";"Metais Preciosos - Diversos";"38151220";"Catalisadores em suporte, tendo como substância ativa um metal precioso ou um composto de metal precioso, com tamanho de partícula inferior a 500 micrômetros (mícrons)";24555476;22633;"KGL";"QUILOGRAMA LIQUIDO";"38151220_2018";546,5081
+"2018";"Metais Preciosos - Diversos";"38151290";"Outros catalisadores, tendo substância ativa metal precioso";17485561;182945;"KGL";"QUILOGRAMA LIQUIDO";"38151290_2018";116,969
+"2018";"Metais Preciosos - Diversos";"71131900";"Artefatos de joalharia, de outros metais preciosos, mesmo revestidos, folheados ou chapeados de metais preciosos (plaquê)";13731037;1917;"KGL";"QUILOGRAMA LIQUIDO";"71131900_2018";6496,5
+"2018";"Metais Preciosos - Diversos";"28439090";"Outros compostos inorgânicos/orgânicos, amálgamas, de metais preciosos";7841218;2031;"KGL";"QUILOGRAMA LIQUIDO";"28439090_2018";3416,3333
+"2018";"Metais Preciosos - Diversos";"91012100";"Outros relógios de pulso, mesmo com contador de tempo incorporado, com caixa de metal precioso, de corda automática";3491748;400;"UNID.";"NUMERO (UNIDADE)";"91012100_2018";8432,7179
+"2018";"Metais Preciosos - Diversos";"83062100";"Estatuetas/objetos de ornamentação, de metais comuns, folheado, prateados, dourados ou platinados";928313;137442;"KGL";"QUILOGRAMA LIQUIDO";"83062100_2018";7,9839
+"2018";"Metais Preciosos - Diversos";"91011100";"Relógios de pulso, com caixa de metais preciosos, funcionando eletricamente, mesmo com contador de tempo incorporado, de mostrador exclusivamente mecânico";672960;6849;"UNID.";"NUMERO (UNIDADE)";"91011100_2018";87,7288
+"2018";"Metais Preciosos - Diversos";"71132000";"Artefatos de joalharia, de metais comuns folheados ou chapeados de metais preciosos (plaquê)";615471;18657;"KGL";"QUILOGRAMA LIQUIDO";"71132000_2018";86,9062
+"2018";"Mica";"68141000";"Placas, folhas ou tiras, de mica aglomerada ou reconstituída, mesmo com suporte";3889313;282446;"KGL";"QUILOGRAMA LIQUIDO";"68141000_2018";26,824
+"2018";"Mica";"25252000";"Mica em pó";1692484;1756705;"KGL";"QUILOGRAMA LIQUIDO";"25252000_2018";2,3994
+"2018";"Mica";"68149000";"Outras obras de mica ou mica trabalhada";663479;79332;"KGL";"QUILOGRAMA LIQUIDO";"68149000_2018";60,3235
+"2018";"Mica";"25251000";"Mica em bruto ou clivada em folhas ou lamelas irregulares (splittings)";169912;94135;"KGL";"QUILOGRAMA LIQUIDO";"25251000_2018";15,0294
+"2018";"Mica";"25253000";"Desperdícios de mica";64;1;"KGL";"QUILOGRAMA LIQUIDO";"25253000_2018";52
+"2018";"Minerais Abrasivos - Diversos";"68042211";"Mós de outros abrasivos aglomerados ou de cerâmica, de diâmetro inferior a 53,34 cm, aglomerados com resina";37439933;8517182;"KGL";"QUILOGRAMA LIQUIDO";"68042211_2018";8,695
+"2018";"Minerais Abrasivos - Diversos";"68042290";"Outros mós de outros abrasivos aglomerados ou de cerâmica";26224216;4616014;"KGL";"QUILOGRAMA LIQUIDO";"68042290_2018";22,0333
+"2018";"Minerais Abrasivos - Diversos";"68052000";"Abrasivos naturais ou artificiais, em pó ou em grãos, aplicados sobre matérias têxteis, papel, cartão ou outras matérias, mesmo recortados, costurados ou reunidos de outro modo, aplicados apenas sobre papel ou cartão";20684227;3140155;"KGL";"QUILOGRAMA LIQUIDO";"68052000_2018";11,9128
+"2018";"Minerais Abrasivos - Diversos";"68051000";"Abrasivos naturais ou artificiais, em pó ou em grãos, aplicados sobre matérias têxteis, papel, cartão ou outras matérias, mesmo recortados, costurados ou reunidos de outro modo, aplicados apenas sobre tecidos de matérias têxteis";19187203;3133321;"KGL";"QUILOGRAMA LIQUIDO";"68051000_2018";12,1326
+"2018";"Minerais Abrasivos - Diversos";"68053090";"Outros abrasivos naturais/artificiais em pó/grãos aplicados sobre outras matérias têxteis";15465027;1828161;"KGL";"QUILOGRAMA LIQUIDO";"68053090_2018";20,35
+"2018";"Minerais Abrasivos - Diversos";"68042219";"Outros mós de outros abrasivos aglomerados ou de cerâmica, de diâmetro inferior a 53,34 cm";8269765;1758172;"KGL";"QUILOGRAMA LIQUIDO";"68042219_2018";28,0627
+"2018";"Minerais Abrasivos - Diversos";"68053020";"Discos abrasivos de fibra vulcanizada, recobertos com óxido de alumínio ou carboneto de silício";4168130;574608;"KGL";"QUILOGRAMA LIQUIDO";"68053020_2018";11,9308
+"2018";"Minerais Abrasivos - Diversos";"25132000";"Esmeril, corindo natural, granada natural e outros abrasivos naturais";2943605;10716350;"KGL";"QUILOGRAMA LIQUIDO";"25132000_2018";0,2834
+"2018";"Minerais Abrasivos - Diversos";"68053010";"Abrasivos naturais ou artificiais, com suporte de papel ou cartão combinados com matérias têxteis";1703873;144630;"KGL";"QUILOGRAMA LIQUIDO";"68053010_2018";16
+"2018";"Minerais Abrasivos - Diversos";"68043000";"Pedras para amolar ou para polir, manualmente";1038166;670756;"KGL";"QUILOGRAMA LIQUIDO";"68043000_2018";20,123
+"2018";"Minerais Abrasivos - Outros";"25131000";"Pedra-pomes; esmerilhado/outros abrasivos naturais tratamento térmico";119589;206210;"KGL";"QUILOGRAMA LIQUIDO";"25131000_2018";5,2884
+"2018";"Minerais Metálicos - Diversos";"94019090";"Partes para assentos, de outras matérias";328986799;58997583;"KGL";"QUILOGRAMA LIQUIDO";"94019090_2018";12,7083
+"2018";"Minerais Metálicos - Diversos";"84807100";"Moldes para borracha ou plásticos, para moldagem por injeção ou por compressão";159592289;371724;"UNID.";"NUMERO (UNIDADE)";"84807100_2018";9876,3472
+"2018";"Minerais Metálicos - Diversos";"82073000";"Ferramentas de embutir, de estampar ou de puncionar";120042672;8864201;"KGL";"QUILOGRAMA LIQUIDO";"82073000_2018";146,473
+"2018";"Minerais Metálicos - Diversos";"83012000";"Fechaduras dos tipos utilizados em veículos automóveis, de metais comuns";111169515;6578145;"KGL";"QUILOGRAMA LIQUIDO";"83012000_2018";23,332
+"2018";"Minerais Metálicos - Diversos";"83023000";"Outras guarnições, ferragens e artigos semelhantes, para veículos automóveis, de metais comuns";104023276;14623914;"KGL";"QUILOGRAMA LIQUIDO";"83023000_2018";11,6792
+"2018";"Minerais Metálicos - Diversos";"83024200";"Outras guarnições, ferragens e artigos semelhantes, para móveis, de metais comuns";83889442;48074555;"KGL";"QUILOGRAMA LIQUIDO";"83024200_2018";5,5639
+"2018";"Minerais Metálicos - Diversos";"94051093";"Lustres e aparelhos iluminadores elétricos, de metal comum, para teto/parede";81359110;17310397;"KGL";"QUILOGRAMA LIQUIDO";"94051093_2018";8,478
+"2018";"Minerais Metálicos - Diversos";"83021000";"Dobradiças de qualquer tipo (incluindo os gonzos e as charneiras), de metais comuns";71815785;15068650;"KGL";"QUILOGRAMA LIQUIDO";"83021000_2018";9,6914
+"2018";"Minerais Metálicos - Diversos";"83099000";"Rolhas, outras tampas e acessórios para embalagem, de metais comuns";61140096;12172680;"KGL";"QUILOGRAMA LIQUIDO";"83099000_2018";12,3948
+"2018";"Minerais Metálicos - Diversos";"94013090";"Assentos giratórios de altura ajustável, de outras matérias";54896031;2245837;"UNID.";"NUMERO (UNIDADE)";"94013090_2018";42,8621
+"2018";"Minerais Metálicos - Outros";"26179000";"Outros minérios e seus concentrados";104944;1052;"KGL";"QUILOGRAMA LIQUIDO";"26179000_2018";63,2854
+"2018";"Minerais Metálicos - Outros";"28051990";"Outros metais alcalinos ou alcalinoterrosos";46129;9054;"KGL";"QUILOGRAMA LIQUIDO";"28051990_2018";10,8144
+"2018";"Minerais Refratários - Diversos";"69032090";"Outros produtos cerâmicos refratários, que contenham, em peso, mais de 50 % de alumina (Al2O3) ou de uma mistura ou combinação de alumina e sílica (SiO2)";21899838;4868679;"KGL";"QUILOGRAMA LIQUIDO";"69032090_2018";9,2434
+"2018";"Minerais Refratários - Diversos";"69021018";"Outros tijolos refratários magnesianos ou à base de óxido de cromo";16207636;8996854;"KGL";"QUILOGRAMA LIQUIDO";"69021018_2018";1,7345
+"2018";"Minerais Refratários - Diversos";"69022099";"Outras peças cerâmicas refratária, que contenham, em peso, mais de 50 % de alumina (Al2O3), de sílica (SiO2) ou de uma mistura ou combinação destes produtos";9000565;1807403;"KGL";"QUILOGRAMA LIQUIDO";"69022099_2018";7,8886
+"2018";"Minerais Refratários - Diversos";"69021090";"Outras peças cerâmicas refratárias, que contenham, em peso, mais de 50 % dos elementos Mg, Ca ou Cr, tomados isoladamente ou em conjunto, expressos em MgO, CaO ou Cr2O3";8075577;8977246;"KGL";"QUILOGRAMA LIQUIDO";"69021090_2018";0,959
+"2018";"Minerais Refratários - Diversos";"68159110";"Obras que contenham magnesita, dolomita ou cromita, crus, aglomerados com aglutinante químico";6401219;7488820;"KGL";"QUILOGRAMA LIQUIDO";"68159110_2018";0,6657
+"2018";"Minerais Refratários - Diversos";"69022010";"Tijolos sílico-aluminosos, refratrários";5193582;5980051;"KGL";"QUILOGRAMA LIQUIDO";"69022010_2018";2,0144
+"2018";"Minerais Refratários - Diversos";"69032030";"Tubos refratrários, que contenham, em peso, mais de 50 % de alumina (Al2O3) ou de uma mistura ou combinação de alumina e sílica (SiO2)";3265397;521315;"KGL";"QUILOGRAMA LIQUIDO";"69032030_2018";16,6071
+"2018";"Minerais Refratários - Diversos";"38160029";"Outras preparações à base de cromo-magnesita, etc, refratárias";2784752;647921;"KGL";"QUILOGRAMA LIQUIDO";"38160029_2018";4,6542
+"2018";"Minerais Refratários - Diversos";"69022091";"Outras peças cerâmicas refratárias silico-aluminosos";1923263;2394226;"KGL";"QUILOGRAMA LIQUIDO";"69022091_2018";1,0923
+"2018";"Minerais Refratários - Diversos";"68159190";"Outras obras contendo magnesita, dolomita ou cromita";1173471;1290857;"KGL";"QUILOGRAMA LIQUIDO";"68159190_2018";2,4127
+"2018";"Minerais Refratários - Outros";"25086000";"Mulita";1034467;610863;"KGL";"QUILOGRAMA LIQUIDO";"25086000_2018";1,957
+"2018";"Minerais Refratários - Outros";"69022093";"Outras peças cerâmicas refratárias de silimanita";965183;331707;"KGL";"QUILOGRAMA LIQUIDO";"69022093_2018";14,7236
+"2018";"Minerais Refratários - Outros";"25085000";"Andaluzita, cianita e silimanita";819478;1632555;"KGL";"QUILOGRAMA LIQUIDO";"25085000_2018";0,4678
+"2018";"Minerais Refratários - Outros";"38160012";"Cimento e argamassa, à base de silimanita, refratrários";636454;260061;"KGL";"QUILOGRAMA LIQUIDO";"38160012_2018";2,8531
+"2018";"Molibdênio";"26131010";"Molibdenita ustulada (minérios de molibdênio)";95587531;6284000;"KGL";"QUILOGRAMA LIQUIDO";"26131010_2018";15,9496
+"2018";"Molibdênio";"72027000";"Ferro-molibdênio";24441821;1326298;"KGL";"QUILOGRAMA LIQUIDO";"72027000_2018";18,9536
+"2018";"Molibdênio";"28309011";"Sulfetos de molibdênio iv (dissulfeto de molibdênio)";2856676;136727;"KGL";"QUILOGRAMA LIQUIDO";"28309011_2018";28,7386
+"2018";"Molibdênio";"26131090";"Outros minérios de molibdênio, ustulados, seus concentrados";2169637;1834183;"KGL";"QUILOGRAMA LIQUIDO";"26131090_2018";1,2127
+"2018";"Molibdênio";"81029400";"Molibdênio em formas brutas, incluindo as barras simplesmente obtidas por sinterização";2170199;60734;"KGL";"QUILOGRAMA LIQUIDO";"81029400_2018";36,9874
+"2018";"Molibdênio";"81029900";"Outras obras de molibdênio";1247595;71441;"KGL";"QUILOGRAMA LIQUIDO";"81029900_2018";459,3656
+"2018";"Molibdênio";"81021000";"Pós de molibdênio";924436;20332;"KGL";"QUILOGRAMA LIQUIDO";"81021000_2018";47,4522
+"2018";"Molibdênio";"81029700";"Desperdícios e resíduos de molibdênio";911938;114381;"KGL";"QUILOGRAMA LIQUIDO";"81029700_2018";11,6713
+"2018";"Molibdênio";"28257010";"Trióxido de molibdênio";841823;38500;"KGL";"QUILOGRAMA LIQUIDO";"28257010_2018";30,6157
+"2018";"Molibdênio";"81029600";"Fios de molibdênio";840077;17052;"KGL";"QUILOGRAMA LIQUIDO";"81029600_2018";60,5
+"2018";"Nióbio";"72029300";"Ferro-nióbio";2197;0,004;"TML";"TONELADA METRICA LIQUIDA";"72029300_2018";493250
+"2018";"Níquel";"75021010";"Catodos de niquel não ligado, em formas brutas";72508338;196630;"TML";"TONELADA METRICA LIQUIDA";"75021010_2018";13856,3266
+"2018";"Níquel";"75089090";"Outras obras de níquel";25450400;143,587;"TML";"TONELADA METRICA LIQUIDA";"75089090_2018";532803,55
+"2018";"Níquel";"38151100";"Catalisadores em suporte, tendo como substância ativa o níquel ou um composto de níquel";15372030;1236,614;"TML";"TONELADA METRICA LIQUIDA";"38151100_2018";12412,6
+"2018";"Níquel";"75040010";"Pós e escamas, de níquel não ligado";10510593;641,551;"TML";"TONELADA METRICA LIQUIDA";"75040010_2018";31833,3
+"2018";"Níquel";"75071200";"Tubos de ligas de níquel";9003934;319,679;"TML";"TONELADA METRICA LIQUIDA";"75071200_2018";67713,3
+"2018";"Níquel";"75021090";"Outro niquel não ligado, em formas brutas";7459172;51857;"TML";"TONELADA METRICA LIQUIDA";"75021090_2018";13565,5
+"2018";"Níquel";"75052200";"Fios de ligas de níquel";7246229;235,507;"TML";"TONELADA METRICA LIQUIDA";"75052200_2018";33615,3
+"2018";"Níquel";"85073019";"Outros acumuladores elétricos, de níquel-cádmio, peso <= 2500 kg";6300556;29862;"UNID.";"NUMERO (UNIDADE)";"85073019_2018";408,2343
+"2018";"Níquel";"75072000";"Acessórios para tubos de níquel (por exemplo, uniões, cotovelos, luvas)";5428161;19,341;"TML";"TONELADA METRICA LIQUIDA";"75072000_2018";430000
+"2018";"Níquel";"85075000";"Acumuladores elétricos de niquel-hidreto metálico";4984244;5408134;"UNID.";"NUMERO (UNIDADE)";"85075000_2018";23,4
+"2018";"Ouro";"71081310";"Ouro em barras, fios e perfis de seção maciça";3241656;114;"KGL";"QUILOGRAMA LIQUIDO";"71081310_2018";35567,5
+"2018";"Ouro";"71081290";"Ouro em outras formas brutas, para uso não monetário";1863182;755;"KGL";"QUILOGRAMA LIQUIDO";"71081290_2018";120,9
+"2018";"Ouro";"28433090";"Outros compostos de ouro, exclusivamente auranofina, etc.";286387;60;"KGL";"QUILOGRAMA LIQUIDO";"28433090_2018";4757,5
+"2018";"Ouro";"71081390";"Ouro em outras formas semimanufaturadas, bulhão dourado, uso não monetário";208981;92;"KGL";"QUILOGRAMA LIQUIDO";"71081390_2018";1109
+"2018";"Ouro";"71081100";"Pós de ouro (incluindo o ouro platinado), para usos não monetários";2783;0;"KGL";"QUILOGRAMA LIQUIDO";"71081100_2018";NA
+"2018";"Paládio";"71102100";"Paládio em formas brutas ou em pó";272279917;8331;"KGL";"QUILOGRAMA LIQUIDO";"71102100_2018";32004,0122
+"2018";"Paládio";"71102900";"Paladio em formas semimanufaturadas";148740;6;"KGL";"QUILOGRAMA LIQUIDO";"71102900_2018";24084,25
+"2018";"Perlita";"25301010";"Perlita não expandida";2239079;24942084;"KGL";"QUILOGRAMA LIQUIDO";"25301010_2018";0,1069
+"2018";"Platina";"71101100";"Platina, em formas brutas ou em pó";58726187;2032;"KGL";"QUILOGRAMA LIQUIDO";"71101100_2018";28806,379
+"2018";"Platina";"71101910";"Platina, em barras, fios e perfis de seção maciça";942135;25;"KGL";"QUILOGRAMA LIQUIDO";"71101910_2018";4953,5
+"2018";"Platina";"71101990";"Platina, em outras formas semimanufaturadas";76983;3;"KGL";"QUILOGRAMA LIQUIDO";"71101990_2018";6970
+"2018";"Platina";"28439019";"Dexormaplatina; enloplatina; iproplatina; lobaplatina; miboplatina; ormaplatina; sebriplatina e zeniplatina, apresentadas de outra forma";8004;0;"KGL";"QUILOGRAMA LIQUIDO";"28439019_2018";NA
+"2018";"Platina";"91144000";"Platinas e pontes para artigos de relojoaria";4142;0;"KGL";"QUILOGRAMA LIQUIDO";"91144000_2018";NA
+"2018";"Platina (Grupo) - Diversos";"71104100";"Irídio, ósmio e rutênio, em formas brutas ou em pó";33226;6;"KGL";"QUILOGRAMA LIQUIDO";"71104100_2018";4885
+"2018";"Platina (Grupo) - Diversos";"71104900";"Irídio, ósmio e rutênio, em formas semimanufaturadas";1779;3;"KGL";"QUILOGRAMA LIQUIDO";"71104900_2018";452
+"2018";"Potássio";"31042090";"Outros cloretos de potássio";3095276682;10507256,288;"TML";"TONELADA METRICA LIQUIDA";"31042090_2018";295
+"2018";"Potássio";"31059090";"Outros adubos/fertilizantes minerais químicos com nitrogênio e potássio";44973478;33713,507;"TML";"TONELADA METRICA LIQUIDA";"31059090_2018";2276,9
+"2018";"Potássio";"31049090";"Outros adubos ou fertilizantes minerais/químicos, potássicos";19203931;100729,761;"TML";"TONELADA METRICA LIQUIDA";"31049090_2018";901,5
+"2018";"Potássio";"31043010";"Sulfato de potássio, com teor de óxido de potássio (K2O) não superior a 52 %, em peso";14123901;29721,459;"TML";"TONELADA METRICA LIQUIDA";"31043010_2018";527
+"2018";"Potássio";"28152000";"Hidróxido de potássio (potassa cáustica)";12062895;16466,33;"TML";"TONELADA METRICA LIQUIDA";"28152000_2018";875,25
+"2018";"Potássio";"28364000";"Carbonatos de potássio";4393240;6138,641;"TML";"TONELADA METRICA LIQUIDA";"28364000_2018";783,3
+"2018";"Potássio";"31042010";"Cloreto de potássio, com teor de óxido de potássio (K2O) não superior a 60 %, em peso";4384020;13630,064;"TML";"TONELADA METRICA LIQUIDA";"31042010_2018";1096,1
+"2018";"Potássio";"28342190";"Outros nitratos de potássio";3370047;3549,593;"TML";"TONELADA METRICA LIQUIDA";"28342190_2018";1060,9
+"2018";"Potássio";"28352400";"Fosfato de potássio";2615998;1687,721;"TML";"TONELADA METRICA LIQUIDA";"28352400_2018";26326,3
+"2018";"Potássio";"28416100";"Permanganato de potássio";2544014;1019,402;"TML";"TONELADA METRICA LIQUIDA";"28416100_2018";2728,4
+"2018";"Prata";"71069100";"Prata, em formas brutas";86960211;173,395;"TML";"TONELADA METRICA LIQUIDA";"71069100_2018";516544,7
+"2018";"Prata";"71131100";"Artefatos de joalharia, de prata, mesmo revestida, folheada ou chapeada de outros metais preciosos (plaquê)";29424288;15,348;"TML";"TONELADA METRICA LIQUIDA";"71131100_2018";1717722,2
+"2018";"Prata";"28432100";"Nitrato de prata";4453346;14,747;"TML";"TONELADA METRICA LIQUIDA";"28432100_2018";150857,1
+"2018";"Prata";"71069290";"Prata, em outras formas semimanufaturadas";3991262;5,983;"TML";"TONELADA METRICA LIQUIDA";"71069290_2018";639660
+"2018";"Prata";"71069210";"Prata,em barras, fios e perfis de seção maciça";2043321;5,454;"TML";"TONELADA METRICA LIQUIDA";"71069210_2018";328285,7
+"2018";"Prata";"85064010";"Pilhas e baterias de pilhas, de óxido de prata, com volume exterior não superior a 300 cm3";1361755;9315563;"UNID.";"NUMERO (UNIDADE)";"85064010_2018";0,2153
+"2018";"Prata";"71069220";"Prata, em chapas, lâminas, folhas e tiras";557499;4,828;"TML";"TONELADA METRICA LIQUIDA";"71069220_2018";401600
+"2018";"Prata";"37023200";"Outros filmes, não perfurados, de largura não superior a 105 mm, que contenham uma emulsão de halogenetos de prata";513957;49028;"M2";"METRO QUADRADO";"37023200_2018";10,1524
+"2018";"Prata";"28432990";"Outros compostos de prata";244842;9,985;"TML";"TONELADA METRICA LIQUIDA";"28432990_2018";246553,1
+"2018";"Prata";"71070000";"Metais comuns folheados ou chapeados (plaquê) de prata, em formas brutas ou semimanufaturadas";137940;0,658;"TML";"TONELADA METRICA LIQUIDA";"71070000_2018";277588,2
+"2018";"Quartzo (Cristal)";"85044021";"Retificadores, exceto carregadores de acumuladores, de cristal (semicondutores)";122047127;32658829;"UNID.";"NUMERO (UNIDADE)";"85044021_2018";17,493
+"2018";"Quartzo (Cristal)";"85416010";"Cristais piezelétricos montados, de quartzo, de frequência superior ou igual a 1 MHz, mas inferior ou igual a 100 MHz";17563453;202768181;"UNID.";"NUMERO (UNIDADE)";"85416010_2018";0,116
+"2018";"Quartzo (Cristal)";"25061000";"Quartzo";1787273;5087536;"KGL";"QUILOGRAMA LIQUIDO";"25061000_2018";2,0122
+"2018";"Quartzo (Cristal)";"85181010";"Piezelétricos próprios para aparelhos telefônicos";257106;1389270;"UNID.";"NUMERO (UNIDADE)";"85181010_2018";0,3244
+"2018";"Quartzo (Cristal)";"85182910";"Piezelétricos próprios para aparelhos telefônicos";54388;2326033;"UNID.";"NUMERO (UNIDADE)";"85182910_2018";0,171
+"2018";"Quartzo (Cristal)";"71041000";"Quartzo piezoelétrico";6108;15;"KGL";"QUILOGRAMA LIQUIDO";"71041000_2018";272,625
+"2018";"Rochas Betuminosas";"68071000";"Obras de asfalto ou de produtos semelhantes (por exemplo, breu ou pez), em rolos";3472211;4220394;"KGL";"QUILOGRAMA LIQUIDO";"68071000_2018";0,8156
+"2018";"Rochas Betuminosas";"68079000";"Outras obras de asfalto ou de produtos semelhantes (por exemplo, breu ou pez)";2620135;5608636;"KGL";"QUILOGRAMA LIQUIDO";"68079000_2018";1,4155
+"2018";"Rochas Betuminosas";"27150000";"Misturas betuminosas à base de asfalto ou de betume naturais, de betume de petróleo, de alcatrão mineral ou de breu de alcatrão mineral (por exemplo, mástiques betuminosos e cut-backs)";1875246;1058087;"KGL";"QUILOGRAMA LIQUIDO";"27150000_2018";1,7493
+"2018";"Rochas Betuminosas";"48111090";"Outros papéis e cartões de celulose, alcatroados, betumados ou asfaltados, em rolos ou em folhas de forma quadrada ou retangular";224536;58736;"KGL";"QUILOGRAMA LIQUIDO";"48111090_2018";3,0378
+"2018";"Rochas Betuminosas";"27149000";"Betumes, asfaltos naturais, asfaltitas, rochas asfálticas";130411;134234;"KGL";"QUILOGRAMA LIQUIDO";"27149000_2018";1,1663
+"2018";"Rochas Betuminosas";"48111010";"Papel e cartão de celulose, alcatroados, betumados ou asfaltados, em tiras ou rolos de largura não superior a 15 cm ou em folhas em que nenhum lado exceda 360 mm, quando não dobradas, em rolos ou em folhas de forma quadrada ou retangular";30931;2960;"KGL";"QUILOGRAMA LIQUIDO";"48111010_2018";10,6769
+"2018";"Rochas Britadas e Cascalho";"25174100";"Grânulos, lascas e pós, das pedras das posições 25.15 ou 25.16, mesmo tratados termicamente, de mármore";2499178;60288829;"KGL";"QUILOGRAMA LIQUIDO";"25174100_2018";0,177
+"2018";"Rochas Britadas e Cascalho";"25174900";"Grânulos, lascas e pós, das pedras das posições 25.15 ou 25.16, mesmo tratados termicamente, de outras pedras de cantaria";213682;697256;"KGL";"QUILOGRAMA LIQUIDO";"25174900_2018";0,57
+"2018";"Rochas Britadas e Cascalho";"25171000";"Calhaus, cascalho, pedras britadas, dos tipos geralmente usados em concreto ou para empedramento de estradas, de vias férreas ou outros balastros, seixos rolados e sílex, mesmo tratados termicamente";209097;26145387;"KGL";"QUILOGRAMA LIQUIDO";"25171000_2018";0,3386
+"2018";"Rochas Britadas e Cascalho";"25173000";"Tarmacadame";7439;17181;"KGL";"QUILOGRAMA LIQUIDO";"25173000_2018";0,433
+"2018";"Rochas e Minerais Industriais - Diversos";"85416090";"Outros cristais piezoelétricos montados";83490256;699259837;"UNID.";"NUMERO (UNIDADE)";"85416090_2018";0,1514
+"2018";"Rochas e Minerais Industriais - Diversos";"38249979";"Outros produtos e preparações à base de elementos químicos ou de seus compostos inorgânicos, não especificados nem compreendidos noutras posições";40337815;14100179;"KGL";"QUILOGRAMA LIQUIDO";"38249979_2018";12,3008
+"2018";"Rochas e Minerais Industriais - Diversos";"31051000";"Produtos do presente Capítulo (adubos ou fertilizantes) apresentados em tabletes ou formas semelhantes, ou ainda em embalagens com peso bruto não superior a 10 kg";26181871;7029495;"KGL";"QUILOGRAMA LIQUIDO";"31051000_2018";7,1333
+"2018";"Rochas e Minerais Industriais - Diversos";"32071090";"Outros pigmentos, opacificantes/cores, preparados e preparações";25447094;3387343;"KGL";"QUILOGRAMA LIQUIDO";"32071090_2018";20,568
+"2018";"Rochas e Minerais Industriais - Diversos";"94069090";"Outras construções pré-fabricadas, exceto de madeira";9295963;1854811;"KGL";"QUILOGRAMA LIQUIDO";"94069090_2018";6,089
+"2018";"Rochas e Minerais Industriais - Diversos";"38244000";"Aditivos preparados para cimentos, argamassas ou concretos";7185559;4317595;"KGL";"QUILOGRAMA LIQUIDO";"38244000_2018";2,536
+"2018";"Rochas e Minerais Industriais - Diversos";"68159990";"Outras obras de pedras ou de outras matérias minerais";5884186;2345556;"KGL";"QUILOGRAMA LIQUIDO";"68159990_2018";8,3682
+"2018";"Rochas e Minerais Industriais - Diversos";"25309090";"Outras matérias minerais";5527741;13042139;"KGL";"QUILOGRAMA LIQUIDO";"25309090_2018";0,798
+"2018";"Rochas e Minerais Industriais - Diversos";"28500090";"Hidretos, azidas, boretos e outros nitretos e silicietos";4863350;2804339;"KGL";"QUILOGRAMA LIQUIDO";"28500090_2018";25,426
+"2018";"Rochas e Minerais Industriais - Diversos";"38249978";"Preparações à base de óxido de alumínio e óxido de zircônio, com um conteúdo de óxido de zircônio igual ou superior a 20 %, em peso";3592286;658927;"KGL";"QUILOGRAMA LIQUIDO";"38249978_2018";6,5667
+"2018";"Rochas e Minerais Industriais - Outros";"28369920";"Peroxocarbonatos (percarbonatos)";5280929;8400790;"KGL";"QUILOGRAMA LIQUIDO";"28369920_2018";0,6336
+"2018";"Rochas e Minerais Industriais - Outros";"28369919";"Outros carbonatos";5254038;4391229;"KGL";"QUILOGRAMA LIQUIDO";"28369919_2018";9,0588
+"2018";"Rochas e Minerais Industriais - Outros";"28421010";"Zeólitas dos tipos utilizados como trocadores de íons para o tratamento de águas";280316;101347;"KGL";"QUILOGRAMA LIQUIDO";"28421010_2018";6,3704
+"2018";"Rochas e Minerais Industriais - Outros";"25293000";"Leucita; nefelina e nefelina-sienito";128161;241490;"KGL";"QUILOGRAMA LIQUIDO";"25293000_2018";0,8053
+"2018";"Rochas e Minerais Industriais - Outros";"85229010";"Agulhas com ponta de pedra preciosa, para aparelhos de reprodução";7343;12;"KGL";"QUILOGRAMA LIQUIDO";"85229010_2018";547
+"2018";"Rochas Ornamentais";"68029100";"Mármore, travertino e alabastro, trabalhado de outro modo, e obras";12095293;20456,753;"TML";"TONELADA METRICA LIQUIDA";"68029100_2018";594,6
+"2018";"Rochas Ornamentais";"25151220";"Travertinos, simplesmente cortados a serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular";6070304;763920;"M3";"METRO CUBICO";"25151220_2018";947,7981
+"2018";"Rochas Ornamentais";"68022100";"Mármore, travertino e alabastro, simplesmente talhados ou serrados, de superfície plana ou lisa";4064364;465483;"M2";"METRO QUADRADO";"68022100_2018";23,5616
+"2018";"Rochas Ornamentais";"68022900";"Outras pedras de cantaria, simplesmente talhadas ou serradas, de superfície plana ou lisa";2216595;419017;"M2";"METRO QUADRADO";"68022900_2018";13,4232
+"2018";"Rochas Ornamentais";"68021000";"Ladrilhos, cubos, pastilhas e artigos semelhantes, mesmo de forma diferente da quadrada ou retangular, cuja maior superfície possa ser inscrita num quadrado de lado inferior a 7 cm; grânulos, fragmentos e pós, corados artificialmente";1009157;890,087;"TML";"TONELADA METRICA LIQUIDA";"68021000_2018";1806,85
+"2018";"Rochas Ornamentais";"25151210";"Mármores, simplesmente cortados a serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular";892677;58296;"M3";"METRO CUBICO";"25151210_2018";997,525
+"2018";"Rochas Ornamentais";"68029200";"Outras pedras calcárias, trabalhadas de outro modo e obras";723972;1088,644;"TML";"TONELADA METRICA LIQUIDA";"68029200_2018";564,4
+"2018";"Rochas Ornamentais";"25169000";"Outras pedras de cantaria ou de construção";615854;1081,646;"TML";"TONELADA METRICA LIQUIDA";"25169000_2018";570,2
+"2018";"Rochas Ornamentais";"68029990";"Outras pedras de cantaria, etc, trabalhadas de outro modo e obra";408286;418,78;"TML";"TONELADA METRICA LIQUIDA";"68029990_2018";1973,7
+"2018";"Rochas Ornamentais";"68010000";"Pedras para calcetar, meios-fios e placas (lajes) para pavimentação, de pedra natural (exceto a ardósia)";397891;687,916;"TML";"TONELADA METRICA LIQUIDA";"68010000_2018";660,8
+"2018";"Ródio";"71103100";"Ródio em formas brutas ou em pó";53891993;814;"KGL";"QUILOGRAMA LIQUIDO";"71103100_2018";69830,2529
+"2018";"Ródio";"71103900";"Ródio em formas semimanufaturadas";46907;23;"KGL";"QUILOGRAMA LIQUIDO";"71103900_2018";1253,25
+"2018";"Rutênio";"28439020";"Tricloreto de rutênio em solução aquosa com uma concentração igual ou superior a 17 %, mas inferior ou igual a 27 %, em peso";905392;148;"KGL";"QUILOGRAMA LIQUIDO";"28439020_2018";6270,425
+"2018";"Sal";"28151200";"Hidróxido de sódio (soda cáustica), em solução aquosa (lixívia de soda cáustica)";614589920;2002128197;"KGL";"QUILOGRAMA LIQUIDO";"28151200_2018";0,3294
+"2018";"Sal";"28362010";"Carbonato dissódico anidro";277853872;1388002451;"KGL";"QUILOGRAMA LIQUIDO";"28362010_2018";0,2351
+"2018";"Sal";"28331110";"Sulfato dissódico anidro";95872549;938016288;"KGL";"QUILOGRAMA LIQUIDO";"28331110_2018";0,1392
+"2018";"Sal";"28151100";"Hidróxido de sódio (soda cáustica), sólido";21660551;27985558;"KGL";"QUILOGRAMA LIQUIDO";"28151100_2018";0,8407
+"2018";"Sal";"31059019";"Outros nitratos de sódio potássico";15818396;35814141;"KGL";"QUILOGRAMA LIQUIDO";"31059019_2018";0,4435
+"2018";"Sal";"25010019";"Outros tipos de sal a granel, sem agregados";13838872;788422883;"KGL";"QUILOGRAMA LIQUIDO";"25010019_2018";0,0174
+"2018";"Sal";"28289020";"Clorito de sódio";13833036;11614138;"KGL";"QUILOGRAMA LIQUIDO";"28289020_2018";1,1045
+"2018";"Sal";"28353110";"Trifosfato de sódio (tripolifosfato de sódio), grau alimentício, de acordo com o estabelecido pela Food and Agriculture Organization - Organização Mundial da Saúde (FAO - OMS) ou pelo Food Chemical Codex (FCC)";12870538;12190225;"KGL";"QUILOGRAMA LIQUIDO";"28353110_2018";1,0677
+"2018";"Sal";"28321090";"Outros sulfitos de sódio";12239025;20839081;"KGL";"QUILOGRAMA LIQUIDO";"28321090_2018";0,6817
+"2018";"Sal";"28301010";"Sulfeto de dissódio";10345206;14889107;"KGL";"QUILOGRAMA LIQUIDO";"28301010_2018";0,7142
+"2018";"Selênio";"28049000";"Selênio";2141719;59152;"KGL";"QUILOGRAMA LIQUIDO";"28049000_2018";37,7702
+"2018";"Silício";"70109090";"Outros garrafões, garrafas, frascos, etc, de vidro";54767673;32452314;"KGL";"QUILOGRAMA LIQUIDO";"70109090_2018";2,6846
+"2018";"Silício";"70091000";"Espelhos retrovisores para veículos";53136263;4153041;"KGL";"QUILOGRAMA LIQUIDO";"70091000_2018";20,8
+"2018";"Silício";"39100019";"Outros óleos silicones em formas primárias";42539213;9191108;"KGL";"QUILOGRAMA LIQUIDO";"39100019_2018";13,0478
+"2018";"Silício";"70134900";"Outros objetos para serviços de mesa e cozinha, exceto aqueles citados anteriormente";41208036;40035417;"KGL";"QUILOGRAMA LIQUIDO";"70134900_2018";1,4055
+"2018";"Silício";"70199090";"Outras fibras de vidro e suas obras";37547574;5785373;"KGL";"QUILOGRAMA LIQUIDO";"70199090_2018";40,5121
+"2018";"Silício";"39100021";"Elastômeros de silicone, de vulcanização a quente";35491193;8124702;"KGL";"QUILOGRAMA LIQUIDO";"39100021_2018";7,9107
+"2018";"Silício";"39100011";"Misturas de pre-polímeros lineares, etc.(silicone óleo)";26733177;10957567;"KGL";"QUILOGRAMA LIQUIDO";"39100011_2018";2,91
+"2018";"Silício";"28112210";"Dióxido de silício obtido por precipitação química";26601364;22450057;"KGL";"QUILOGRAMA LIQUIDO";"28112210_2018";1,2127
+"2018";"Silício";"70052100";"Outro vidro não armado, corado na massa, opacificado, folheado (chapeado) ou simplesmente desbastado, em chapas ou folhas";22691118;4103007;"M2";"METRO QUADRADO";"70052100_2018";6,2781
+"2018";"Silício";"70071900";"Outros vidros de segurança, temperados";19828570;3241397;"M2";"METRO QUADRADO";"70071900_2018";66,0204
+"2018";"Talco";"25262000";"Esteatita natural, mesmo desbastada ou simplesmente cortada a serra ou por outro meio, em blocos ou placas de forma quadrada ou retangular, triturada ou em pó e talco";8520360;20338189;"KGL";"QUILOGRAMA LIQUIDO";"25262000_2018";0,768
+"2018";"Tálio";"81125900";"Obras e outros produtos do tálio";53;0;"KGL";"QUILOGRAMA LIQUIDO";"81125900_2018";NA
+"2018";"Tântalo";"85322111";"Condensador fixo elétrico, de tântalo, próprios para montagem em superfície (SMD - Surface Mounted Device), com tensão de isolação inferior ou igual a 125 V";7383728;79834519;"UNID.";"NUMERO (UNIDADE)";"85322111_2018";0,1238
+"2018";"Tântalo";"85322119";"Outros condensadores fixos elétricos, de tântalo, próprios para montagem em superfície (SMD - Surface Mounted Device)";302655;1562901;"UNID.";"NUMERO (UNIDADE)";"85322119_2018";0,19
+"2018";"Tântalo";"85322190";"Outros condensadores fixos eletrolítico, de tântalo";162325;1500757;"UNID.";"NUMERO (UNIDADE)";"85322190_2018";0,2729
+"2018";"Tântalo";"81039000";"Outras obras de tântalo";131330;0,119;"TML";"TONELADA METRICA LIQUIDA";"81039000_2018";1385500
+"2018";"Tântalo";"85322120";"Outros condensadores fixos eletrolítico, de tântalo, próprios para montagem por inserção (PHP - Pin Through Hole)";9962;21625;"UNID.";"NUMERO (UNIDADE)";"85322120_2018";0,6462
+"2018";"Tântalo";"28499020";"Carbonetos de constituição química definida ou não, de tântalo";7823;0,025;"TML";"TONELADA METRICA LIQUIDA";"28499020_2018";312920
+"2018";"Tântalo";"81032000";"Tântalo em formas brutas, incluindo as barras simplesmente obtidas por sinterização; pós";586;0;"TML";"TONELADA METRICA LIQUIDA";"81032000_2018";NA
+"2018";"Terras Raras";"28469090";"Outros compostos dos metais das terras raras, de ítrio, etc";4771692;1736,761;"TML";"TONELADA METRICA LIQUIDA";"28469090_2018";15884,15
+"2018";"Terras Raras";"38159093";"Outras preparações catalíticas, tendo como substância ativa óxidos de terras raras";3477162;139,245;"TML";"TONELADA METRICA LIQUIDA";"38159093_2018";26119
+"2018";"Terras Raras";"36069000";"Ferrocerio e outras ligas pirofosfóricas, artigo de material inflamável";1310265;206,673;"TML";"TONELADA METRICA LIQUIDA";"36069000_2018";16002,9
+"2018";"Terras Raras";"28053010";"Liga de cério, com teor de ferro inferior ou igual a 5 %, em peso (Mischmetal)";921964;144,15;"TML";"TONELADA METRICA LIQUIDA";"28053010_2018";6469,6
+"2018";"Terras Raras";"28461010";"Óxido cérico";598848;54,61;"TML";"TONELADA METRICA LIQUIDA";"28461010_2018";12721,65
+"2018";"Terras Raras";"28461090";"Outros compostos de cério";166023;19,439;"TML";"TONELADA METRICA LIQUIDA";"28461090_2018";27915
+"2018";"Terras Raras";"28053090";"Outros metais de terras raras, escândio e ítrio";82343;10,518;"TML";"TONELADA METRICA LIQUIDA";"28053090_2018";7559,15
+"2018";"Terras Raras";"28469020";"Cloretos dos demais metais das terras raras";14363;1,071;"TML";"TONELADA METRICA LIQUIDA";"28469020_2018";834000
+"2018";"Terras Raras";"28419015";"Titanatos de lantânio ou de neodímio";1499;0,032;"TML";"TONELADA METRICA LIQUIDA";"28419015_2018";69363,6
+"2018";"Titânio";"32061110";"Pigmentos tipo rutilo";322108224;116551,546;"TML";"TONELADA METRICA LIQUIDA";"32061110_2018";2923
+"2018";"Titânio";"81089000";"Obras de titânio";43980166;392,027;"TML";"TONELADA METRICA LIQUIDA";"81089000_2018";350362,6
+"2018";"Titânio";"28230010";"Óxidos de titânio, tipo anatase";28543034;11737,485;"TML";"TONELADA METRICA LIQUIDA";"28230010_2018";3264,85
+"2018";"Titânio";"26140090";"Outros minérios de titânio e seus concentrados";22735830;41499,12;"TML";"TONELADA METRICA LIQUIDA";"26140090_2018";995,45
+"2018";"Titânio";"72029100";"Ferro-titânio e ferro-silício-titânio";17274027;4911,5;"TML";"TONELADA METRICA LIQUIDA";"72029100_2018";3489,2
+"2018";"Titânio";"32061990";"Outros pigmentos e prepars.à base de dióxido de titânio";14096690;5251,779;"TML";"TONELADA METRICA LIQUIDA";"32061990_2018";12303,85
+"2018";"Titânio";"32061910";"Pigmento constituído por mica revestida película dióxido titânio";11708854;2097,635;"TML";"TONELADA METRICA LIQUIDA";"32061910_2018";13467,6
+"2018";"Titânio";"32061130";"Preparações à base de dióxido de titânio, peso >= 80%";4888193;660,166;"TML";"TONELADA METRICA LIQUIDA";"32061130_2018";10749,6
+"2018";"Titânio";"32061120";"Outros pigmentos que contenham, em peso, 80 % ou mais de dióxido de titânio, calculado sobre matéria seca";4028288;1089,779;"TML";"TONELADA METRICA LIQUIDA";"32061120_2018";6466,7
+"2018";"Titânio";"28230090";"Outros óxidos de titânio";1416540;605,016;"TML";"TONELADA METRICA LIQUIDA";"28230090_2018";8939
+"2018";"Tungstênio";"85392110";"Outras lâmpadas e tubos de incandescência, exceto de raios ultravioleta ou infravermelhos, halógenos, de tungstênio, para uma tensão inferior ou igual a 15 V";37259562;65834603;"UNID.";"NUMERO (UNIDADE)";"85392110_2018";1,8
+"2018";"Tungstênio";"85392190";"Outras lâmpadas/tubos incandescentes halogenos, de tungstênio";16459592;50019711;"UNID.";"NUMERO (UNIDADE)";"85392190_2018";4,52
+"2018";"Tungstênio";"81019990";"Outras obras de tungstênio";5611614;66,468;"TML";"TONELADA METRICA LIQUIDA";"81019990_2018";131658,2
+"2018";"Tungstênio";"72028000";"Ferro-tungstênio (ferro-volfrâmio) e ferro-silício-tungstênio (ferro-silício-volfrâmio)";3085731;99,33;"TML";"TONELADA METRICA LIQUIDA";"72028000_2018";32587,95
+"2018";"Tungstênio";"28499030";"Carbonetos de constituição química definida ou não, de tungstênio (volfrâmio)";2928936;50,23;"TML";"TONELADA METRICA LIQUIDA";"28499030_2018";64967
+"2018";"Tungstênio";"81011000";"Pós de tungstênio (volframio)";1945037;33,618;"TML";"TONELADA METRICA LIQUIDA";"81011000_2018";65287,5
+"2018";"Tungstênio";"90184911";"Brocas para odontologia, de carboneto de tungstênio (volfrâmio)";1922045;2129388;"UNID.";"NUMERO (UNIDADE)";"90184911_2018";1,6864
+"2018";"Tungstênio";"81019400";"Tungstênio (volfrâmio) em formas brutas, incluindo as barras simplesmente obtidas por sinterização";1664625;23,289;"TML";"TONELADA METRICA LIQUIDA";"81019400_2018";74095,1
+"2018";"Tungstênio";"38249972";"Preparações à base de sílica em suspensão coloidal; nitreto de boro de estrutura cristalina cúbica, compactado com substrato de carbeto de tungstênio (volfrâmio)";1028196;341,243;"TML";"TONELADA METRICA LIQUIDA";"38249972_2018";24153,8
+"2018";"Tungstênio";"81019600";"Fios de tungstênio";893292;6,571;"TML";"TONELADA METRICA LIQUIDA";"81019600_2018";95000
+"2018";"Turfa";"27030000";"Turfa (incluindo a turfa para cama de animais), mesmo aglomerada";6533852;25566231;"KGL";"QUILOGRAMA LIQUIDO";"27030000_2018";0,2153
+"2018";"Turfa";"68152000";"Obras de turfa";6224;2107;"KGL";"QUILOGRAMA LIQUIDO";"68152000_2018";2,954
+"2018";"Urânio";"28441000";"Urânio natural e seus compostos; ligas, dispersões (incluindo os ceramais (cermets)), produtos cerâmicos e misturas que contenham urânio natural ou compostos de urânio natural";27173716;130157;"KGL";"QUILOGRAMA LIQUIDO";"28441000_2018";278,5378
+"2018";"Urânio";"26121000";"Minérios de urânio e seus concentrados";42;0;"KGL";"QUILOGRAMA LIQUIDO";"26121000_2018";NA
+"2018";"Vanádio";"72029200";"Ferro-vanádio";71321104;1385,165;"TML";"TONELADA METRICA LIQUIDA";"72029200_2018";53968,6
+"2018";"Vanádio";"28253010";"Pentóxido de divanádio";11747399;345,05;"TML";"TONELADA METRICA LIQUIDA";"28253010_2018";34891,6
+"2018";"Vanádio";"28419030";"Vanadatos";494431;30,887;"TML";"TONELADA METRICA LIQUIDA";"28419030_2018";48000
+"2018";"Vanádio";"90184912";"Brocas para odontologia, de aço-vanádio";147145;353700;"UNID.";"NUMERO (UNIDADE)";"90184912_2018";0,4646
+"2018";"Vanádio";"28253090";"Outros óxidos e hidróxidos de vanádio";136500;4,315;"TML";"TONELADA METRICA LIQUIDA";"28253090_2018";110666,7
+"2018";"Vermiculita";"68069090";"Outras obras de matérias minerais para isolamento do calor, som, etc.";19642782;11963302;"KGL";"QUILOGRAMA LIQUIDO";"68069090_2018";15,6072
+"2018";"Vermiculita";"68062000";"Vermiculita e argilas, expandidas, espuma de escórias e produtos minerais semelhantes, expandidos, mesmo misturados entre si";4910337;1281094;"KGL";"QUILOGRAMA LIQUIDO";"68062000_2018";3,4991
+"2018";"Vermiculita";"68061000";"Lãs de escórias de altos-fornos, lãs de outras escórias, lã de rocha e lãs minerais semelhantes, mesmo misturadas entre si, a granel, em folhas ou em rolos";2012047;844276;"KGL";"QUILOGRAMA LIQUIDO";"68061000_2018";4,9158
+"2018";"Vermiculita";"25301090";"Vermiculita e cloritas, não expandidas";12869;40040;"KGL";"QUILOGRAMA LIQUIDO";"25301090_2018";0,3224
+"2018";"Zinco";"26080010";"Sulfetos de minérios de zinco";229989179;187561,052;"TML";"TONELADA METRICA LIQUIDA";"26080010_2018";1234,6
+"2018";"Zinco";"79011111";"Zinco não ligado, que contenha, em peso, 99,99 % ou mais de zinco, eletrolítico, em lingotes";105743334;2667576;"TML";"TONELADA METRICA LIQUIDA";"79011111_2018";3131,3669
+"2018";"Zinco";"26080090";"Outros minérios de zinco e seus concentrados";46328949;29783,46;"TML";"TONELADA METRICA LIQUIDA";"26080090_2018";1562
+"2018";"Zinco";"28170010";"Óxido de zinco (branco de zinco)";26216677;9157,582;"TML";"TONELADA METRICA LIQUIDA";"28170010_2018";4505,6
+"2018";"Zinco";"38112120";"Aditivos para óleos lubrificantes, que contenham óleos de petróleo ou de minerais betuminosos, antidesgastes, anticorrosivos ou antioxidantes, contendo dialquilditiofosfato de zinco ou diarilditiofosfato de zinco";20922736;6142,472;"TML";"TONELADA METRICA LIQUIDA";"38112120_2018";5060,4
+"2018";"Zinco";"28332970";"Sulfatos de zinco";17654683;13055,843;"TML";"TONELADA METRICA LIQUIDA";"28332970_2018";5180
+"2018";"Zinco";"79011210";"Zinco não ligado, que contenha, em peso, menos de 99,99 % de zinco, em lingotes";14627619;4469;"TML";"TONELADA METRICA LIQUIDA";"79011210_2018";3261,837
+"2018";"Zinco";"79070090";"Outras obras de zinco";4807166;590,38;"TML";"TONELADA METRICA LIQUIDA";"79070090_2018";22083,35
+"2018";"Zinco";"85066010";"Pilhas e baterias de pilhas, elétricas, ar-zinco, com volume exterior não superior a 300 cm3";4674755;23812074;"UNID.";"NUMERO (UNIDADE)";"85066010_2018";0,1706
+"2018";"Zinco";"28273998";"Cloreto de zinco";3988051;2027,117;"TML";"TONELADA METRICA LIQUIDA";"28273998_2018";4155,9
+"2018";"Zircônio";"26151020";"Zirconita (minério de zircônio)";8546911;6741,456;"TML";"TONELADA METRICA LIQUIDA";"26151020_2018";1461,3
+"2018";"Zircônio";"25309020";"Areia de zircônio micronizada, própria para a preparação de esmaltes cerâmicos";6741097;4716,16;"TML";"TONELADA METRICA LIQUIDA";"25309020_2018";1441,7
+"2018";"Zircônio";"81099000";"Obras de zircônio";5306418;40,745;"TML";"TONELADA METRICA LIQUIDA";"81099000_2018";48260,6
+"2018";"Zircônio";"28369912";"Carbonato de zircônio";3389789;886,02;"TML";"TONELADA METRICA LIQUIDA";"28369912_2018";3993,2
+"2018";"Zircônio";"28256020";"Dióxido de zircônio";2719167;137,659;"TML";"TONELADA METRICA LIQUIDA";"28256020_2018";42833,3
+"2018";"Zircônio";"69039092";"Outros produtos cerâmicos refratários de compostos de zircônio";2217301;134,253;"TML";"TONELADA METRICA LIQUIDA";"69039092_2018";21613,9
+"2018";"Zircônio";"69039012";"Tubo refratrário, de compostos de zircônio";1437984;1,901;"TML";"TONELADA METRICA LIQUIDA";"69039012_2018";700878,8
+"2018";"Zircônio";"32071010";"Pigmento, opacificante, etc, à base de zircônio/seus sais";357612;118,542;"TML";"TONELADA METRICA LIQUIDA";"32071010_2018";90500
+"2018";"Zircônio";"69029020";"Tijolos e outras peças cerâmicas refratárias não fundidos, com um teor de óxido de zircônio (ZrO2) superior a 25 %, em peso";66055;26,477;"TML";"TONELADA METRICA LIQUIDA";"69029020_2018";5725,25
+"2018";"Zircônio";"28399030";"Silicato de zircônio";62845;29,023;"TML";"TONELADA METRICA LIQUIDA";"28399030_2018";1935
