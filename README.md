@@ -6,7 +6,7 @@
 </div>
 
 
-Essa é uma versão experimental do *Sumário Mineral Brasileiro* usando tecnologia de automação web. Para cada substância o texto respectivo foi gerado por um *bot*, criado na própria GEMI, programado para combinar bases próprias com bases coletadas em Dados Abertos na Internet. O resultado são combinações de variáveis (produção, exportações, teor, etc) com frases geradas previamente conforme ajuste de semântica ao contexto de cada parágrafo.
+Essa é uma versão experimental do *Sumário Mineral Brasileiro* usando tecnologia de automação web. Para cada substância o texto respectivo foi gerado por um *bot*, criado na própria Economia Mineral, programado para combinar bases próprias com bases coletadas em Dados Abertos na Internet. O resultado são combinações de variáveis (produção, exportações, teor, etc) com frases geradas previamente conforme ajuste de semântica ao contexto de cada parágrafo.
 
 O objetivo dos textos prontos é ganho de tempo aos autores. Com benefício de liberar o trabalho repetitivo em benefício de mais tempo para análise crítica. Foram usadas as linguagens *R* (para automação) e as linguagens *HTML* e *CSS* (no layout). Agradeço ao colega Adhelbar Queiroz no aconselhamento sobre diversas substâncias.
 
