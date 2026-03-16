@@ -6,9 +6,9 @@
 </div>
 
 
-Essa é uma versão experimental do *Sumário Mineral Brasileiro* usando tecnologia de automação web. Para cada substância o texto respectivo foi gerado por um *bot*, criado na própria Economia Mineral, programado para combinar bases próprias com bases coletadas em Dados Abertos na Internet. O resultado são combinações de variáveis (produção, exportações, teor, etc) com frases geradas previamente conforme ajuste de semântica ao contexto de cada parágrafo.
+Essa é uma versão experimental do *Sumário Mineral Brasileiro* usando tecnologia de automação web. Para cada substância o texto respectivo foi gerado por um *bot*, criado na Economia Mineral, programado para combinar bases próprias com bases coletadas em Dados Abertos na Internet. O resultado são textos criados por concatenação variáveis (produção, exportações, teor, etc) com frases geradas previamente conforme ajuste de semântica ao contexto.
 
-O objetivo dos textos prontos é ganho de tempo aos autores. Com benefício de liberar o trabalho repetitivo em benefício de mais tempo para análise crítica. Foram usadas as linguagens *R* (para automação) e as linguagens *HTML* e *CSS* (no layout). Agradeço ao colega Adhelbar Queiroz no aconselhamento sobre diversas substâncias.
+O objetivo dos é ganho de tempo aos autores. Com benefício de liberar o trabalho repetitivo em benefício de mais tempo para análise crítica. Foram usadas as linguagens *R* (para automação) e as linguagens *HTML* e *CSS* (no layout). Agradeço ao colega Adhelbar Queiroz no aconselhamento sobre diversas substâncias.
 
 
 <br />
@@ -40,9 +40,9 @@ O objetivo dos textos prontos é ganho de tempo aos autores. Com benefício de l
 >  
 >  **Carvão Mineral:** Não consta no *Summary Mineral Commodities (USGS)*, tendo sido usado bp-stats-review-2020-full-report_(COAL), conforme é a prática do sumarista Luis Araújo.   
 >
->  **Grafita:** Originalmente sem símboloQuimico, imputei 'C' (carbono).
+>  **Grafita:** Originalmente sem símbolo químico, imputei 'C' (carbono).
 >  
->  **Terras-Raras:** No AMB Dados Abertos consta reunido sob a substância agrupadora *Monazita e Terras-Raras*. Embora o *Summary Mineral Commodities (USGS)* considere *Monazita* como recurso (e reserva) de *Terras Raras*, nas publicações da ANM/AMB elas são interpretadas como coisas distintas. O que foi feito, por ora, foi seguir a USGS e usado substância Agrupadora *Monazita e Terras-Raras*. Notei que não há *Monazita* na Mtz de Relacionamento e não foi possível gerar dados do Comex Stat.
+>  **Terras-Raras:** No AMB Dados Abertos temos a substância agrupadora *Monazita e Terras-Raras*. Embora o *Summary Mineral Commodities (USGS)* considere *Monazita* como recurso (e reserva) de *Terras Raras*, nas publicações da ANM/AMB elas são interpretadas como coisas distintas. O que foi feito, por ora, foi seguir a USGS e usado substância Agrupadora *Monazita e Terras-Raras*. Notei que não há *Monazita* na Mtz de Relacionamento e não foi possível gerar dados do Comex Stat.
 >  
 >  **Titânio:** Foi desconsiderada a substância AMB *Anatásio* nos registros nacionais. Isso conforme conversa com o sumarista Antônio Alves que reportou os teores do *Anatásio* nacional como sendo subeconômicos (recurso).
 >  
