@@ -1,5 +1,3 @@
-<style> body {background: beige; font-size: small;} p, li {color: #333333} table {align-self: center; } h1 {color: darkslateblue;} h2 {color: darkslateblue;} h3 {color: darkslateblue;} h4 {color: darkslateblue;} h5 {color: darkslateblue;} </style>
-
 ## Sumário Mineral 4.0
 <div style="text-align: right; font-size: 11pt;"> 
 <a href="mailto:humberto.serna@anm.gov.br"> humberto.serna@anm.gov.br </a>  
@@ -8,7 +6,7 @@
 
 Essa é uma versão experimental do *Sumário Mineral Brasileiro* usando tecnologia de automação web. Para cada substância o texto respectivo foi gerado por um *bot*, criado na Economia Mineral, programado para combinar bases próprias com bases coletadas em Dados Abertos na Internet. O resultado são textos criados por concatenação variáveis (produção, exportações, teor, etc) com frases geradas previamente conforme ajuste de semântica ao contexto.
 
-O objetivo dos é ganho de tempo aos autores. Com benefício de liberar o trabalho repetitivo em benefício de mais tempo para análise crítica. Foram usadas as linguagens *R* (para automação) e as linguagens *HTML* e *CSS* (no layout). Agradeço ao colega Adhelbar Queiroz no aconselhamento sobre diversas substâncias.
+O objetivo é ganho de tempo aos autores. Com benefício de liberar o trabalho repetitivo em benefício de mais tempo para análise crítica. Foram usadas as linguagens *R* (para automação) e as linguagens *HTML* e *CSS* (no layout). Agradeço ao colega Adhelbar Queiroz no aconselhamento sobre diversas substâncias.
 
 
 <br />
